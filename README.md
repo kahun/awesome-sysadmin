@@ -249,6 +249,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
 * [RethinkDB](http://rethinkdb.com) - Built to store JSON documents, and scale to multiple machines with very little effort. It supports really useful queries like table joins and group by.
 * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+* [InfluxDB](http://influxdb.com/) - An open-source distributed time series database with no external dependencies.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
