@@ -260,7 +260,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
-* [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
 ## RDBMS
 *Relational DBMS.*
