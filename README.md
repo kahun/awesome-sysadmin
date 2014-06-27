@@ -335,6 +335,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
 * [Otrs](http://www.otrs.com/) - A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
+* [Redmine](http://redmine.org) - A flexible project & ticket management web application.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
@@ -450,6 +451,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for OS X
 * [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
 * [GNU Emacs](http://www.gnu.org/software/emacs/) - an extensible, customizable text editor—and more. 
 
