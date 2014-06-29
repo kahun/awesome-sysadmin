@@ -11,6 +11,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Distributed Filesystems](#distributed-filesystems)
+  * [DHCP](#dhcp)
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
   * [IMAP/POP3](#imappop3)
@@ -150,6 +151,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
+## DHCP
+*DHCP tools.*
+
+* [lsleases](https://github.com/j-keck/lsleases) - dhcp leases sniffer.
+    
 ## DNS
 *DNS servers.*
 
