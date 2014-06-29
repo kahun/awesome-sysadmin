@@ -380,6 +380,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
+* [Jira](http://www.projectmanagesoft.com/software/) - Written in Java
 
 ## Version control
 *Software versioning and revision control.*
