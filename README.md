@@ -46,9 +46,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Websites](#websites)
 * [Contributing](#contributing)
 * [GitTools](#gittools)
-  * [GitFlow](#fitflow)
-  * [GitFlow cheatsheet](#gitflowcheatsheet)
-  * [Gource](#gource)
 * [Versioning](#versioning)
 
 ## Backups
