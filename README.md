@@ -45,6 +45,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
+* [GitTools](#gittools)
+  * [GitFlow](#fitflow)
+  * [GitFlow cheatsheet](#gitflowcheatsheet)
+  * [Gource](#gource)
+* [Versioning](#versioning)
 
 ## Backups
 *Backup software.*
@@ -496,6 +501,9 @@ Various resources, such as books, websites and articles, for improving your skil
 * [GitFlow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 * [GitFlow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet) - GitFlow cheatsheet
 * [Gource](https://code.google.com/p/gource/) - Software version control visualization
+
+# Versioning
+* [Semver](http://semver.org) - Semantic Versioning
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
