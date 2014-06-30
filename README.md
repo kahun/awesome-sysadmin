@@ -499,7 +499,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 # GitTools
 * [GitFlow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-* [GitFlow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet) - GitFlow cheatsheet
+* [GitFlowCheatsheet](http://danielkummer.github.io/git-flow-cheatsheet) - GitFlow cheatsheet
 * [Gource](https://code.google.com/p/gource/) - Software version control visualization
 
 # Versioning
