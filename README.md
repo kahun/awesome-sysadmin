@@ -66,6 +66,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Cloning software.*
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
+* [DRBL](http://drbl.org/) - Diskless Remote Boot in Linux. Open source solution for managing deployment across many clients. Includes Clonezilla and a PXE boot server.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
