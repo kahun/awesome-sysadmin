@@ -203,6 +203,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
 
+* [Echofish](http://www.echothrust.com/projects/echofish) - A web based real-time event log aggregation, analysis, monitoring and management system.
 * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
