@@ -423,6 +423,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [RainLoop](http://rainloop.net/) - Simple, modern & fast web-based IMAP client.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
+* [Squirrelmail](http://squirrelmail.org/) - Lightweight and standards-based webmail package written in PHP.
 
 ## Web
 *Web servers.*
