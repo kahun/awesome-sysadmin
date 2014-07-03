@@ -82,6 +82,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Orchestration
 
+* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
@@ -118,7 +119,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Configuration Management
 *Configuration management tools.*
 
-* [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
+* [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
@@ -336,6 +337,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## SSH
 *SSH tools.*
 
+* [Ansible](http://www.ansible.com) - A general purpose automation stack using SSH that can run ad-hoc actions as well
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
 * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
 * [DSH](http://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
