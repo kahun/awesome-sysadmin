@@ -327,6 +327,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
+* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## SMTP
 *SMTP servers.*
