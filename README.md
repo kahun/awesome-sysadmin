@@ -19,6 +19,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Log Management](#log-management)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
+  * [Network Troubleshooting and Analysis](#network-troubleshooting-and-analysis)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -260,6 +261,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
+## Network Troubleshooting and Analysis
+*Network troubleshooting and analysis.*
+
+* [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
+* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
+
 ## Newsletters
 *Newsletter software.*
 
@@ -322,12 +329,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [AIDE](http://aide.sourceforge.net/) - The Advanced Intrusion Detection Environment, developed as a free replacement for Tripwire as a data integrity tool.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [Metasploit](http://www.metasploit.com/) - Penetration testing framework.
-* [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
 * [OpenVAS](http://www.openvas.org/) - Open-source vulnerability scanner and manager.
 * [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
 * [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
 * [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
-* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## SMTP
 *SMTP servers.*
