@@ -265,6 +265,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network troubleshooting and analysis.*
 
 * [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
+* [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer.
 * [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## Newsletters
