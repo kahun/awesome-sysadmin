@@ -284,6 +284,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
 * Key-Value
   * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
+  * [Memcached](http://www.memcached.org/) - General-purpose distributed memory caching system, often used to store database objects in memory.
   * [Project Voldemort](http://www.project-voldemort.com/) - Distributed key-value storage system, developed by LinkedIn.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
