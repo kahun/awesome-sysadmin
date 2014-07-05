@@ -14,11 +14,13 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
   * [IMAP/POP3](#imappop3)
+  * [IRC](#irc)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
   * [Log Management](#log-management)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
+  * [Network Troubleshooting and Analysis](#network-troubleshooting-and-analysis)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -58,6 +60,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
+* [storeBackup](http://storebackup.org/) - Advanced, yet simple and easy to use backup suite, better suited for personal backups.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
@@ -83,6 +86,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Orchestration
 
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
+* [Cloud Foundry](http://cloudfoundry.org/) - Open source PaaS software. Apache 2.0 licensed, written in Ruby and Go.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
@@ -181,6 +185,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
 
+## IRC
+*IRC*
+
+* [bitlbee](http://www.bitlbee.org) - A gateway of IM protocols (XMPP, MSN, Yahoo, AIM, ICQ, even Twitter) to IRC.
+* [ircd-seven](https://dev.freenode.net/redmine/projects/ircd-seven) - Freenode's IRC server.
+* [irssi](http://www.irssi.org/) - Timo Sirainen's command-line IRC client.
+* [weechat](http://weechat.org/) - Another command-line IRC client.
+
 ## IT Asset Management
 *IT Assets Management software.*
 
@@ -254,13 +266,22 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network configuration management tools.*
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
+* [Netdot](http://netdot.uoregon.edu/) - A NETwork DOcumentation Tool, designed to help network administrators collect, organize and maintain network documentation.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+
+## Network Troubleshooting and Analysis
+*Network troubleshooting and analysis.*
+
+* [Nmap](http://nmap.org/) - Security scanner, with host discovery, port scanning, version detection and OS detection capabilities.
+* [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer.
+* [Wireshark](http://www.wireshark.org/) - Open-source packet analyzer. Previously known as Ethereal.
 
 ## Newsletters
 *Newsletter software.*
 
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
+* [Mailman](http://www.list.org/) - Mailing List Manager, written in Python.
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 
 ## NoSQL
@@ -280,6 +301,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
 * Key-Value
   * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
+  * [Memcached](http://www.memcached.org/) - General-purpose distributed memory caching system, often used to store database objects in memory.
+  * [Project Voldemort](http://www.project-voldemort.com/) - Distributed key-value storage system, developed by LinkedIn.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
@@ -313,7 +336,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Security
 *Security tools.*
 
+* [AIDE](http://aide.sourceforge.net/) - The Advanced Intrusion Detection Environment, developed as a free replacement for Tripwire as a data integrity tool.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [Metasploit](http://www.metasploit.com/) - Penetration testing framework.
+* [OpenVAS](http://www.openvas.org/) - Open-source vulnerability scanner and manager.
+* [Samhain](http://la-samhna.de/samhain/) - Host-based intrusion detection system, with file integrity checking, log file monitoring/analysis, rootkit detection, port monitoring, detection of rogue SUID execs and hidden processes.
+* [Snort](http://www.snort.org/) - Open-source network intrusion prevention and detection system.
+* [Tripwire (Open Source)](http://sourceforge.net/projects/tripwire/) - Data integrity tool, useful for monitoring and altering on specific file changes.
 
 ## SMTP
 *SMTP servers.*
