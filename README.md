@@ -84,6 +84,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Orchestration
 
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
+* [Cloud Foundry](http://cloudfoundry.org/) - Open source PaaS software. Apache 2.0 licensed, written in Ruby and Go.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
