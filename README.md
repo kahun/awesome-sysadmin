@@ -314,6 +314,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Security tools.*
 
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [Nessus](http://www.tenable.com/products/nessus) - Nessus is a proprietary comprehensive vulnerability scanner.
+* [OpenVAS](http://www.openvas.org) - OpenSource vulnerability scanner and manager.
+* [Bro](http://www.bro.org) - A highly advanced network analysis framework.
+* [Snort](https://www.snort.org/) - Network intrusion prevention and detection system.
+* [nprobe](http://www.ntop.org/products/nprobe/) - NetFlow analysis/audit toolkit.
+* [ntopng](http://www.ntop.org/products/ntop/) - High-Speed Web-based Traffic Analysis and Flow Collection.
 
 ## SMTP
 *SMTP servers.*
