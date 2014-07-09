@@ -96,7 +96,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distribution of data.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
