@@ -384,6 +384,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
 * [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
 * [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
+* [Darcs](http://darcs.net/) - Distributed version control based of patches and changes instead of snapshots.
 * [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 
