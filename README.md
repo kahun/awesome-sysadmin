@@ -16,6 +16,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [IMAP/POP3](#imappop3)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
+  * [Load Testing](#load-testing)
   * [Log Management](#log-management)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
@@ -199,6 +200,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+
+## Load Testing
+*Load Testing tools.*
+
+* [Apache JMeter](http://jmeter.apache.org/) - An Open Source Java desktop application for testing Web Applications.
+* [Gatling Tool](http://gatling-tool.org/) - An Open Source Stress Tool.
 
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
