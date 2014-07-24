@@ -279,6 +279,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
 * Key-Value
+  * [Couchbase](http://www.couchbase.com/) - In-memory, replicated, peristent key/value datastore.
   * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
