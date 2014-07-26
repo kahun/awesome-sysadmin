@@ -178,6 +178,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [Stashboard](http://stashboard.org) - An open-source status dashboard running on App Engine.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
