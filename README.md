@@ -190,7 +190,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+* [Graph-Explorer](http://vimeo.github.io/graph-explorer/) - A graphite dashboard that's different, from Vimeo.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [Graphite-ng](http://github.com/graphite-ng) - Next generation graphite server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
