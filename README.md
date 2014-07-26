@@ -5,6 +5,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
+  * [Cloud Orchestration](#cloud-orchestration)
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
@@ -21,6 +22,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
+  * [Packging](#packaging)
+  * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
@@ -241,6 +244,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
 * [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
+
+## Remote Execution
+
+* [Fabric](http://www.fabfile.org/) - An advanced SSH Module for Python to remotely (and locally) execute commands (Used for Application Deployment as well).
+* [Capistrano](http://capistranorb.com/) - An advanced SSH Module for Ruby to remotely (and locally) execute commands (Used for Application Deployment as well).
+* [winexe](http://sourceforge.net/projects/winexe/) - Remotely run commands on Windows from Linux using RPC.
+* [pywinrm](https://github.com/diyan/pywinrm) - Python client to control WinRM.
+* [winrm](https://github.com/WinRb/WinRM) - Ruby client to control WinRM.
 
 ## SMTP
 *SMTP servers.*
