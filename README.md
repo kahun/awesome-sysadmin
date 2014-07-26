@@ -74,7 +74,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Orchestration
 
-* [Cloudify](http://www.getcloudify.org/) -
+* [Cloudify](http://www.getcloudify.org/) - A Python based, Pluggable Ochestrator. Runs on any Cloud, leveraging tools of your choice.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
 ## Cloud Storage
