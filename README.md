@@ -25,6 +25,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Packging](#packaging)
   * [Queuing](#queuing)
   * [RDBMS](#rdbms)
+  * [Remote Execution](#remote-execution)
+  * [Service Management](#service-management)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
@@ -252,6 +254,16 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [winexe](http://sourceforge.net/projects/winexe/) - Remotely run commands on Windows from Linux using RPC.
 * [pywinrm](https://github.com/diyan/pywinrm) - Python client to control WinRM.
 * [winrm](https://github.com/WinRb/WinRM) - Ruby client to control WinRM.
+
+## Service Management
+*Software for managing system services*
+
+* [Corosync](http://corosync.github.com/corosync) - The Corosync Cluster Engine is a Group Communication System with additional features for implementing high availability within applications.
+* [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
+* [fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system.
+* [Serf](http://www.serfdom.io/) - Service orchestration and management tool.
+* [Systemd](http://www.freedesktop.org/wiki/Software/) - systemd is a system and service manager for Linux, compatible with SysV and LSB init scripts.
+* [Zookeeper](http://zookeeper.apache.org) - ZooKeeper is an open source Apache™ project that provides a centralized infrastructure and services that enable synchronization across a cluster.
 
 ## SMTP
 *SMTP servers.*
