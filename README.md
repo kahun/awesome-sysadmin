@@ -83,7 +83,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Orchestration
 
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
-* [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -96,7 +96,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distribution of data.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
@@ -140,7 +140,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network distributed filesystems.*
 
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
-* [DRBD](http://www.drbd.org/) - Disributed Replicated Block Device.
+* [DRBD](http://www.drbd.org/) - Distributed Replicated Block Device.
 * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 * [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
@@ -170,7 +170,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
-* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on Webmin.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
 ## IMAP/POP3
@@ -223,14 +223,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
-* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
+* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on Linux.
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-* [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+* [Thruk](http://www.thruk.org/) - Multi-backend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
@@ -254,7 +254,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network configuration management tools.*
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
-* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
 ## Newsletters
@@ -271,7 +271,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
 * Document Store
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
-  * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
+  * [ElasticSearch](http://www.elasticsearch.org/) - Java-based database, popular with log aggregation, and email archiving projects.
   * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Open source distributed document store database, focuses on JSON.
@@ -353,7 +353,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Ticketing systems
 *Web-based ticketing system.*
 
-* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+* [Bugzilla](http://www.bugzilla.org/) - General-purpose bug tracker and testing tool originally developed and used by the Mozilla project.
 * [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built with a commercial open source license.
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
