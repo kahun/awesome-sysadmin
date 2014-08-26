@@ -407,7 +407,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
-* [SigmaVPN)(http://frozenriver.net/SigmaVPN) - SigmaVPN is simple, light-weight and modular VPN software for UNIX systems, deploying the NaCl encryption library. 
+* [SigmaVPN](http://frozenriver.net/SigmaVPN) - SigmaVPN is simple, light-weight and modular VPN software for UNIX systems, deploying the NaCl encryption library. 
 
 ## XMPP
 *XMPP servers.*
