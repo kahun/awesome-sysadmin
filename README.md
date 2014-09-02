@@ -180,6 +180,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
+* [Archiveopteryx](http://archiveopteryx.org) - IMAP/POP3/LMTP server with PostgreSQL backend storage
 
 ## IT Asset Management
 *IT Assets Management software.*
