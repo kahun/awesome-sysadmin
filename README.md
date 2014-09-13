@@ -210,6 +210,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
+* [Octopussy](http://8pussy.org/) - Open Source Log Management Solution
 
 ## Monitoring
 *Monitoring software.*
