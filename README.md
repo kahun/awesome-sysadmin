@@ -344,6 +344,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
+* [dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
+* [shipyard](https://github.com/shipyard/shipyard) - Shipyard is a web UI for http://docker.io
 
 ## SSH
 *SSH tools.*
