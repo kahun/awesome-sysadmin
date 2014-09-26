@@ -193,10 +193,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
+* [Flume] (http://flume.apache.org/) Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Heka] (https://github.com/mozilla-services/heka) - Data collection and processing made easy
+* [Scribe] (https://github.com/facebookarchive/scribe) Scribe is a server for aggregating log data streamed in real time from a large number of servers
 
 ## Monitoring
 *Monitoring software.*
