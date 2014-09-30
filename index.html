@@ -9,28 +9,6 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>Awesome-sysadmin</title>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/base64.js"></script>
-    <script src="javascripts/marked.js"></script>
-    <script type="text/javascript">
-        var githubApiUrl = 'https://api.github.com/repos/kahun/awesome-sysadmin/readme';
-        var contentContainerId = "#readmeContent";
-
-        $.ajax({
-          url: githubApiUrl,
-          dataType: 'jsonp',
-          success: function(response)
-          {
-            var encodedContent = response.data.content;
-            var markdownText = Base64.decode(encodedContent);
-            var renderedHtml = marked(markdownText);
-
-            $(contentContainerId).html(renderedHtml);
-          }
-        });
-    </script>
-
   </head>
 
   <body>
@@ -53,7 +31,879 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <div id="readmeContent"></div>
+        <h1>
+<a name="awesome-sysadmin" class="anchor" href="#awesome-sysadmin"><span class="octicon octicon-link"></span></a>Awesome Sysadmin</h1>
+
+<p>A curated list of amazingly awesome open source sysadmin resources inspired by <a href="https://github.com/ziadoz/awesome-php">Awesome PHP</a>
+Prueba</p>
+
+<ul>
+<li>
+<a href="#awesome-sysadmin">Awesome Sysadmin</a>
+
+<ul>
+<li><a href="#backups">Backups</a></li>
+<li><a href="#cloning">Cloning</a></li>
+<li><a href="#cloud-computing">Cloud Computing</a></li>
+<li><a href="#cloud-storage">Cloud Storage</a></li>
+<li><a href="#collaborative-software">Collaborative Software</a></li>
+<li><a href="#configuration-management-database">Configuration Management Database</a></li>
+<li><a href="#configuration-management">Configuration Management</a></li>
+<li><a href="#continuous-integration--continuous-deployment">Continuous Integration &amp; Continuous Deployment</a></li>
+<li><a href="#distributed-filesystems">Distributed Filesystems</a></li>
+<li><a href="#dns">DNS</a></li>
+<li><a href="#hosting-control-panels">Hosting Control Panels</a></li>
+<li><a href="#imappop3">IMAP/POP3</a></li>
+<li><a href="#it-asset-management">IT Asset Management</a></li>
+<li><a href="#ldap">LDAP</a></li>
+<li><a href="#log-management">Log Management</a></li>
+<li><a href="#monitoring">Monitoring</a></li>
+<li><a href="#metric--metric-collection">Metric &amp; Metric Collection</a></li>
+<li><a href="#network-configuration-management">Network Configuration Management</a></li>
+<li><a href="#newsletters">Newsletter</a></li>
+<li><a href="#nosql">NoSQL</a></li>
+<li><a href="#rdbms">RDBMS</a></li>
+<li><a href="#security">Security</a></li>
+<li><a href="#smtp">SMTP</a></li>
+<li><a href="#software-containers">Software Containers</a></li>
+<li><a href="#ssh">SSH</a></li>
+<li><a href="#statistics">Statistics</a></li>
+<li><a href="#ticketing-systems">Ticketing systems</a></li>
+<li><a href="#troubleshooting">Troubleshooting</a></li>
+<li><a href="#project-management">Project Management</a></li>
+<li><a href="#version-control">Version control</a></li>
+<li><a href="#virtualization">Virtualization</a></li>
+<li><a href="#vpn">VPN</a></li>
+<li><a href="#xmpp">XMPP</a></li>
+<li><a href="#web">Web</a></li>
+<li><a href="#webmails">Webmails</a></li>
+<li><a href="#wikis">Wikis</a></li>
+</ul>
+</li>
+<li>
+<a href="#resources">Resources</a>
+
+<ul>
+<li><a href="#blogs">Blogs</a></li>
+<li><a href="#books">Books</a></li>
+<li><a href="#editors">Editors</a></li>
+<li><a href="#repositories">Repositories</a></li>
+<li><a href="#websites">Websites</a></li>
+</ul>
+</li>
+<li><a href="#contributing">Contributing</a></li>
+</ul><h2>
+<a name="backups" class="anchor" href="#backups"><span class="octicon octicon-link"></span></a>Backups</h2>
+
+<p><em>Backup software.</em></p>
+
+<ul>
+<li>
+<a href="http://www.amanda.org/">Amanda</a> - Client-server model backup tool.</li>
+<li>
+<a href="http://www.bacula.org">Bacula</a> - Another Client-server model backup tool.</li>
+<li>
+<a href="https://labs.riseup.net/code/projects/backupninja">Backupninja</a> - Lightweight, extensible meta-backup system.</li>
+<li>
+<a href="http://backuppc.sourceforge.net/">Backuppc</a> - Client-server model backup tool with file pooling scheme.</li>
+<li>
+<a href="http://burp.grke.org/">Burp</a> - Network backup and restore program.</li>
+<li>
+<a href="http://duplicity.nongnu.org/">Duplicity</a> - Encrypted bandwidth-efficient backup using the rsync algorithm.</li>
+<li>
+<a href="https://github.com/axkibe/lsyncd">Lsyncd</a> - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.</li>
+<li>
+<a href="http://www.rsnapshot.org/">Rsnapshot</a> - Filesystem Snapshotting Utility.</li>
+<li>
+<a href="http://safekeep.sourceforge.net/">SafeKeep</a> - Centralized pull-based backup using <code>rdiff-backup</code>.</li>
+<li>
+<a href="https://www.tarsnap.com/">TarSnap</a> - Secure backup service with an open-source client.</li>
+<li>
+<a href="http://www.urbackup.org/">UrBackup</a> - Another client-server backup system.</li>
+<li>
+<a href="https://github.com/dojo4/drebs">DREBS</a> - AWS EBS backup script that supports strategies.</li>
+</ul><h2>
+<a name="cloning" class="anchor" href="#cloning"><span class="octicon octicon-link"></span></a>Cloning</h2>
+
+<p><em>Cloning software.</em></p>
+
+<ul>
+<li>
+<a href="http://clonezilla.org/">Clonezilla</a> - Partition and disk imaging/cloning program.</li>
+<li>
+<a href="http://www.fogproject.org/">Fog</a> - Another computer cloning solution.</li>
+<li>
+<a href="http://redobackup.org/">Redo Backup</a> - Easy Backup, Recovery and Restore.</li>
+</ul><h2>
+<a name="cloud-computing" class="anchor" href="#cloud-computing"><span class="octicon octicon-link"></span></a>Cloud Computing</h2>
+
+<ul>
+<li>
+<a href="http://archipelproject.org/">Archipel</a> - Manage and supervise virtual machines using Libvirt.</li>
+<li>
+<a href="http://cloudstack.apache.org/">CloudStack</a> - Cloud computing software for creating, managing, and deploying infrastructure cloud services.</li>
+<li>
+<a href="https://www.eucalyptus.com/">Eucalyptus</a> - Open source private cloud software with AWS compatibility.</li>
+<li>
+<a href="http://opennebula.org/">OpenNebula</a> - An user-driven cloud management platform for sysadmins and devops.</li>
+<li>
+<a href="https://www.openstack.org/">OpenStack</a> - Open source software for building private and public clouds.</li>
+<li>
+<a href="http://theforeman.org/">The Foreman</a> - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.</li>
+<li>
+<a href="http://www.cobblerd.org/">Cobbler</a> - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. </li>
+<li>
+<a href="http://mesos.apache.org/">Mesos</a> - Develop and run resource-efficient distributed systems.</li>
+</ul><h2>
+<a name="cloud-orchestration" class="anchor" href="#cloud-orchestration"><span class="octicon octicon-link"></span></a>Cloud Orchestration</h2>
+
+<ul>
+<li>
+<a href="http://www.getcloudify.org/">Cloudify</a> -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.</li>
+<li>
+<a href="https://juju.ubuntu.com/">Juju</a> - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.</li>
+<li>
+<a href="http://puppetlabs.com/mcollective">MCollective</a> - Ruby framework to manage server orchestration, developed by Puppet labs.</li>
+<li>
+<a href="http://andrewchilds.github.io/overcast/">Overcast</a> - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.</li>
+<li>
+<a href="http://rundeck.org/">Rundeck</a> - Simple orchestration tool.</li>
+<li>
+<a href="http://www.saltstack.com/">Salt</a> - It's written in Python.</li>
+</ul><h2>
+<a name="cloud-storage" class="anchor" href="#cloud-storage"><span class="octicon octicon-link"></span></a>Cloud Storage</h2>
+
+<ul>
+<li>
+<a href="http://git-annex.branchable.com/assistant/">git-annex assistant</a> - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.</li>
+<li>
+<a href="https://owncloud.org">ownCloud</a> - Provides universal access to your files via the web, your computer or your mobile devices.</li>
+<li>
+<a href="http://seafile.com">Seafile</a> - Another Open Source Cloud Storage solution.</li>
+<li>
+<a href="http://sparkleshare.org/">SparkleShare</a> - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.</li>
+<li>
+<a href="http://docs.openstack.org/developer/swift/">Swift</a> - A highly available, distributed, eventually consistent object/blob store.</li>
+<li>
+<a href="http://syncthing.net/">Syncthing</a> - Open Source system for private, encrypted and authenticated distrobution of data.</li>
+</ul><h2>
+<a name="collaborative-software" class="anchor" href="#collaborative-software"><span class="octicon octicon-link"></span></a>Collaborative Software</h2>
+
+<p><em>Collaborative software or groupware suites.</em></p>
+
+<ul>
+<li>
+<a href="http://www.citadel.org/">Citadel/UX</a> - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.</li>
+<li>
+<a href="http://www.egroupware.org/">EGroupware</a> - Groupware software written in PHP.</li>
+<li>
+<a href="https://www.kolab.org">Kolab</a> - Another groupware suite.</li>
+<li>
+<a href="https://www.sogo.nu/">SOGo</a> -  Collaborative software server with a focus on simplicity and scalability.</li>
+<li>
+<a href="https://www.zimbra.com/community/">Zimbra</a> - Collaborative software suite, that includes an email server and web client.</li>
+</ul><h2>
+<a name="configuration-management-database" class="anchor" href="#configuration-management-database"><span class="octicon octicon-link"></span></a>Configuration Management Database</h2>
+
+<p><em>Configuration management database (CMDB) software.</em></p>
+
+<ul>
+<li>
+<a href="http://www.i-doit.org/">i-doit</a> - Open Source IT Documentation and CMDB.</li>
+<li>
+<a href="http://www.combodo.com/-Overview-.html">iTop</a> - A complete open source, ITIL, web based service management tool.</li>
+<li>
+<a href="https://github.com/allegro/ralph">Ralph</a> - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.</li>
+<li>
+<a href="https://github.com/clusto/clusto">Clusto</a> - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.</li>
+</ul><h2>
+<a name="configuration-management" class="anchor" href="#configuration-management"><span class="octicon octicon-link"></span></a>Configuration Management</h2>
+
+<p><em>Configuration management tools.</em></p>
+
+<ul>
+<li>
+<a href="http://www.ansibleworks.com/">Ansible</a> -  It's written in Python and manages the nodes over SSH.</li>
+<li>
+<a href="http://cfengine.com/">CFEngine</a> - Lightweight agent system. Configuration state is specified via a declarative language.</li>
+<li>
+<a href="http://www.opscode.com/chef/">Chef</a> - It's written in Ruby and Erlang and uses a pure-Ruby DSL.</li>
+<li>
+<a href="http://www.fabfile.org/">Fabric</a> - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.</li>
+<li>
+<a href="http://palletops.com/">Pallet</a> - Infrastructure definition, configuration and management via a Clojure DSL.</li>
+<li>
+<a href="http://puppetlabs.com/">Puppet</a> - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.</li>
+<li>
+<a href="http://www.saltstack.com/">Salt</a> - It's written in Python.</li>
+<li>
+<a href="http://steve.org.uk/Software/slaughter/">Slaughter</a> - It's written in Perl.</li>
+</ul><h2>
+<a name="continuous-integration--continuous-deployment" class="anchor" href="#continuous-integration--continuous-deployment"><span class="octicon octicon-link"></span></a>Continuous Integration &amp; Continuous Deployment</h2>
+
+<p><em>Continuous integration/deployment software.</em></p>
+
+<ul>
+<li>
+<a href="http://buildbot.net/">Buildbot</a> - Python-based toolkit for continuous integration.</li>
+<li>
+<a href="https://www.gitlab.com/gitlab-ci/">GitLab CI</a> - Based off of ruby. They also provide GitLab, which manages git repositories.</li>
+<li>
+<a href="http://www.go.cd/">Go</a> - Open source agile build and release management software.</li>
+<li>
+<a href="http://jenkins-ci.org/">Jenkins</a> - An extendable open source continuous integration server.</li>
+<li>
+<a href="http://rubyhitsquad.com/Vlad_the_Deployer.html">Vlad the Deployer</a> - Deployment automation.</li>
+</ul><h2>
+<a name="distributed-filesystems" class="anchor" href="#distributed-filesystems"><span class="octicon octicon-link"></span></a>Distributed Filesystems</h2>
+
+<p><em>Network distributed filesystems.</em></p>
+
+<ul>
+<li>
+<a href="http://ceph.com/">Ceph</a> - Distributed object store and file system.</li>
+<li>
+<a href="http://www.drbd.org/">DRBD</a> - Disributed Replicated Block Device.</li>
+<li>
+<a href="http://www.gluster.org/">GlusterFS</a> - Scale-out network-attached storage file system.</li>
+<li>
+<a href="http://hadoop.apache.org/">HDFS</a> - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.</li>
+<li>
+<a href="http://lustre.opensfs.org/">Lustre</a> -  A type of parallel distributed file system, generally used for large-scale cluster computing.</li>
+<li>
+<a href="http://www.moosefs.org/">MooseFS</a> - Fault tolerant, network distributed file system.</li>
+<li>
+<a href="http://mogilefs.org/">MogileFS</a> - Application level, network distributed file system.</li>
+<li>
+<a href="http://www.openafs.org/">OpenAFS</a> - Distributed network file system with read-only replicas and multi-OS support.</li>
+<li>
+<a href="https://tahoe-lafs.org/trac/tahoe-lafs">TahoeLAFS</a> - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.</li>
+<li>
+<a href="http://www.xtreemfs.org/">XtreemFS</a> - XtreemFS is a fault-tolerant distributed file system for all storage needs.</li>
+</ul><h2>
+<a name="dns" class="anchor" href="#dns"><span class="octicon octicon-link"></span></a>DNS</h2>
+
+<p><em>DNS servers.</em></p>
+
+<ul>
+<li>
+<a href="https://www.isc.org/downloads/bind/">Bind</a> - The most widely used name server software.</li>
+<li>
+<a href="http://cr.yp.to/djbdns.html">djbdns</a> - A collection of DNS applications, including tinydns.</li>
+<li>
+<a href="https://wiki.openstack.org/wiki/Designate">Designate</a> - DNS REST API that support several DNS servers as its backend.</li>
+<li>
+<a href="http://www.thekelleys.org.uk/dnsmasq/doc.html">dnsmasq</a> - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.</li>
+<li>
+<a href="https://www.knot-dns.cz/">Knot</a> - High performance authoritative-only DNS server.</li>
+<li>
+<a href="http://www.nlnetlabs.nl/projects/nsd/">NSD</a> - Authoritative only, high performance, simple name server.</li>
+<li>
+<a href="https://www.powerdns.com/">PowerDNS</a> - DNS server with a variety of data storage back-ends and load balancing features.</li>
+<li>
+<a href="http://unbound.net/">Unbound</a> - Validating, recursive, and caching DNS resolver.</li>
+<li>
+<a href="http://yadifa.eu/">Yadifa</a> - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.</li>
+</ul><h2>
+<a name="hosting-control-panels" class="anchor" href="#hosting-control-panels"><span class="octicon octicon-link"></span></a>Hosting Control Panels</h2>
+
+<p><em>Web hosting control panels</em></p>
+
+<ul>
+<li>
+<a href="http://ajenti.org/">Ajenti</a> - Control panel for Linux and BSD.</li>
+<li>
+<a href="http://feathur.com">Feathur</a> - VPS Provisioning and Management Software.</li>
+<li>
+<a href="http://www.ispconfig.org">ISPConfig</a> - Hosting control panel for Linux.</li>
+<li>
+<a href="http://www.vestacp.com/">VestaCP</a> - Hosting panel for Linux but with Nginx.</li>
+<li>
+<a href="http://www.virtualmin.com/">Virtualmin</a> - Control panel for Linux based on webmin.</li>
+<li>
+<a href="http://www.zpanelcp.com/">ZPanel</a> - Control panel for Linux, BSD, and Windows.</li>
+</ul><h2>
+<a name="imappop3" class="anchor" href="#imappop3"><span class="octicon octicon-link"></span></a>IMAP/POP3</h2>
+
+<p><em>IMAP/POP3 mail servers.</em></p>
+
+<ul>
+<li>
+<a href="http://www.courier-mta.org/imap/">Courier IMAP/POP3</a> - Fast, scalable, enterprise IMAP and POP3 server.</li>
+<li>
+<a href="http://cyrusimap.org/">Cyrus IMAP/POP3</a> - Intended to be run on sealed servers, where normal users are not permitted to log in.</li>
+<li>
+<a href="http://www.dovecot.org/">Dovecot</a> - IMAP and POP3 server written primarily with security in mind.</li>
+<li>
+<a href="http://www.eudora.com/products/unsupported/qpopper/">Qpopper</a> - One of the oldest and most popular server implementations of POP3.</li>
+</ul><h2>
+<a name="it-asset-management" class="anchor" href="#it-asset-management"><span class="octicon octicon-link"></span></a>IT Asset Management</h2>
+
+<p><em>IT Assets Management software.</em></p>
+
+<ul>
+<li>
+<a href="http://www.glpi-project.org/spip.php?lang=en">GLPI</a> - Information Resource-Manager with an additional Administration Interface.</li>
+<li>
+<a href="http://www.ocsinventory-ng.org/en/">OCS Inventory NG</a> - Enables users to inventory their IT assets.</li>
+<li>
+<a href="http://racktables.org/">RackTables</a> - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.</li>
+<li>
+<a href="https://github.com/allegro/ralph">Ralph</a> - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.</li>
+<li>
+<a href="http://snipeitapp.com/">Snipe IT</a> - Asset &amp; license management software.</li>
+</ul><h2>
+<a name="ldap" class="anchor" href="#ldap"><span class="octicon octicon-link"></span></a>LDAP</h2>
+
+<p><em>LDAP servers.</em></p>
+
+<ul>
+<li>
+<a href="http://port389.org">389 Directory Server</a> - Developed by Red Hat.</li>
+<li>
+<a href="http://directory.apache.org/">Apache Directory Server</a> - Apache Software Foundation project written in Java.</li>
+<li>
+<a href="http://www.fusiondirectory.org">Fusion Directory</a> - Improve the Management of the services and the company directory based on OpenLDAP.</li>
+<li>
+<a href="http://opendj.forgerock.org/">OpenDJ</a> - Fork of OpenDS.</li>
+<li>
+<a href="https://opends.java.net/">OpenDS</a> - Another directory server written in Java.</li>
+<li>
+<a href="http://openldap.org/">OpenLDAP</a> - Developed by the OpenLDAP Project.</li>
+</ul><h2>
+<a name="log-management" class="anchor" href="#log-management"><span class="octicon octicon-link"></span></a>Log Management</h2>
+
+<p><em>Log management tools: collect, parse, visualize ...</em></p>
+
+<ul>
+<li>
+<a href="http://www.elasticsearch.org/">Elasticsearch</a> - A Lucene Based Document store mainly used for log indexing, storage and analysis.</li>
+<li>
+<a href="http://www.fluentd.org/">Fluentd</a> - Log Collector and Shipper.</li>
+<li>
+<a href="https://flume.apache.org/">Flume</a> - Distributed log collection and aggregation system.</li>
+<li>
+<a href="http://graylog2.org/">Graylog2</a> - Pluggable Log and Event Analysis Server with Alerting options.</li>
+<li>
+<a href="http://hekad.readthedocs.org/en/latest/">Heka</a> - Stream processing system which may be used for log aggregation.</li>
+<li>
+<a href="http://www.elasticsearch.org/overview/kibana/">Kibana</a> - Visualize logs and time-stamped data.</li>
+<li>
+<a href="http://logstash.net/">Logstash</a> - Tool for managing events and logs.</li>
+</ul><h2>
+<a name="monitoring" class="anchor" href="#monitoring"><span class="octicon octicon-link"></span></a>Monitoring</h2>
+
+<p><em>Monitoring software.</em></p>
+
+<ul>
+<li>
+<a href="http://www.cacti.net">Cacti</a> - Web-based network monitoring and graphing tool.</li>
+<li>
+<a href="http://cabotapp.com/">Cabot</a> - Monitoring and alerts, similar to PagerDuty.</li>
+<li>
+<a href="http://mathias-kettner.com/check_mk.html">check_mk</a> - Collection of extensions for Nagios.</li>
+<li>
+<a href="https://www.icinga.org/">Icinga</a> - Fork of Nagios.</li>
+<li>
+<a href="https://github.com/librenms/librenms/">LibreNMS</a> - fork of Observium.</li>
+<li>
+<a href="http://mmonit.com/monit/#home">Monit</a> - Small Open Source utility for managing and monitoring Unix systems.</li>
+<li>
+<a href="http://munin-monitoring.org/">Munin</a> - Networked resource monitoring tool.</li>
+<li>
+<a href="http://www.naemon.org/">Naemon</a> - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.</li>
+<li>
+<a href="http://www.nagios.org/">Nagios</a> - Computer system, network and infrastructure monitoring software application.</li>
+<li>
+<a href="http://www.observium.org/">Observium</a> - SNMP monitoring for servers and networking devices. Runs on linux.</li>
+<li>
+<a href="http://omdistro.org/">OMD</a> - The Open Monitoring Distribution.</li>
+<li>
+<a href="http://www.opsview.com/solutions/core">Opsview</a> - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.</li>
+<li>
+<a href="http://riemann.io/">Riemann</a> - Flexible and fast events processor allowing complex events/metrics analysis.</li>
+<li>
+<a href="http://sensuapp.org/">Sensu</a> - Open source monitoring framework.</li>
+<li>
+<a href="https://getsentry.com/">Sentry</a> - Application monitoring, event logging and aggregation.</li>
+<li>
+<a href="http://www.shinken-monitoring.org/">Shinken</a> - Another monitoring framework.</li>
+<li>
+<a href="http://www.thruk.org/">Thruk</a> - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.</li>
+<li>
+<a href="http://www.xymon.com/">Xymon</a> - Network monitoring inspired by Big Brother.</li>
+<li>
+<a href="http://www.zabbix.com/">Zabbix</a> - Enterprise-class software for monitoring of networks and applications.</li>
+<li>
+<a href="http://community.zenoss.org">Zenoss</a> - Application, server, and network management platform based on Zope.</li>
+</ul><h2>
+<a name="metric--metric-collection" class="anchor" href="#metric--metric-collection"><span class="octicon octicon-link"></span></a>Metric &amp; Metric Collection</h2>
+
+<p><em>Metric gathering and display software.</em></p>
+
+<ul>
+<li>
+<a href="http://collectd.org/">Collectd</a> - System statistic collection daemon.</li>
+<li>
+<a href="http://collectl.sourceforge.net/">Collectl</a> - High precision system performance metrics collecting tool.</li>
+<li>
+<a href="http://dashing.io/">Dashing</a> - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.</li>
+<li>
+<a href="https://github.com/BrightcoveOS/Diamond">Diamond</a> - Python based statistic collection daemon.</li>
+<li>
+<a href="http://grafana.org/">Grafana</a> - A Graphite &amp; InfluxDB Dashboard and Graph Editor.</li>
+<li>
+<a href="http://ganglia.sourceforge.net/">Ganglia</a> - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.</li>
+<li>
+<a href="http://graphite.readthedocs.org/en/latest/">Graphite</a> - Open source scaleable graphing server.</li>
+<li>
+<a href="http://influxdb.com/">InfluxDB</a> - Open source distributed time series database with no external dependencies.</li>
+<li>
+<a href="http://opentsdb.net/">OpenTSDB</a> - Store and server massive amounts of time series data without losing granularity.</li>
+<li>
+<a href="http://oss.oetiker.ch/rrdtool/">RRDtool</a> - Open source industry standard, high performance data logging and graphing system for time series data.</li>
+<li>
+<a href="https://github.com/etsy/statsd/">Statsd</a> - Application statistic listener.</li>
+</ul><h2>
+<a name="network-configuration-management" class="anchor" href="#network-configuration-management"><span class="octicon octicon-link"></span></a>Network Configuration Management</h2>
+
+<p><em>Network configuration management tools.</em></p>
+
+<ul>
+<li>
+<a href="http://www.gestioip.net/">GestióIP</a> - An automated web based IPv4/IPv6 IP Address Management tool.</li>
+<li>
+<a href="http://www.shrubbery.net/rancid/">RANCID</a> - Monitors network device's configurarion and maintain history of changes.</li>
+<li>
+<a href="http://www.rconfig.com/">rConfig</a> - Another network device configuration management tool.</li>
+</ul><h2>
+<a name="newsletters" class="anchor" href="#newsletters"><span class="octicon octicon-link"></span></a>Newsletters</h2>
+
+<p><em>Newsletter software.</em></p>
+
+<ul>
+<li>
+<a href="http://dadamailproject.com/">DadaMail</a> - Mailing List Manager, written in Perl.</li>
+<li>
+<a href="http://www.phplist.com/">phpList</a> - Newsletter manager written in PHP.</li>
+</ul><h2>
+<a name="nosql" class="anchor" href="#nosql"><span class="octicon octicon-link"></span></a>NoSQL</h2>
+
+<p><em>NoSQL databases.</em></p>
+
+<ul>
+<li>Column-Family
+
+<ul>
+<li>
+<a href="http://hbase.apache.org/">Apache HBase</a> - Hadoop database, a distributed, big data store.</li>
+<li>
+<a href="http://cassandra.apache.org/">Cassandra</a> - Distributed DBMS designed to handle large amounts of data across many servers.</li>
+</ul>
+</li>
+<li>Document Store
+
+<ul>
+<li>
+<a href="http://couchdb.apache.org/">CouchDB</a> - Ease of use, with multi-master replication document-oriented database system.</li>
+<li>
+<a href="http://www.elasticsearch.org/">ElasticSearch</a> - Java based database, popular with log aggregation, and email archiving projects.</li>
+<li>
+<a href="http://www.mongodb.org/">MongoDB</a> - Another document-oriented database system.</li>
+<li>
+<a href="http://ravendb.net/">RavenDB</a> - Document based database with ACID/Transactional features.</li>
+<li>
+<a href="http://www.rethinkdb.com/">RethinkDB</a> - Open source distributed document store database, focuses on JSON.</li>
+</ul>
+</li>
+<li>Graph
+
+<ul>
+<li>
+<a href="https://github.com/twitter/flockdb">FlockDB</a> - Twitter's distributed, fault-tolerant graph database.</li>
+<li>
+<a href="http://www.neo4j.org/">Neo4j</a> - Open source graph database.</li>
+</ul>
+</li>
+<li>Key-Value
+
+<ul>
+<li>
+<a href="https://code.google.com/p/leveldb/">LevelDB</a> - Google's high performance key/value database.</li>
+<li>
+<a href="http://redis.io/">Redis</a> - Networked, in-memory, key-value data store with optional durability.</li>
+<li>
+<a href="http://basho.com/riak/">Riak</a> - Another fault-tolerant key-value NoSQL database.</li>
+</ul>
+</li>
+</ul><p>Comparison of NoSQL servers: <a href="http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis">http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis</a></p>
+
+<h2>
+<a name="packaging" class="anchor" href="#packaging"><span class="octicon octicon-link"></span></a>Packaging</h2>
+
+<ul>
+<li>
+<a href="https://github.com/jordansissel/fpm">fpm</a> - Versatile multi format package creator.</li>
+<li>
+<a href="https://github.com/opscode/omnibus-ruby">omnibus-ruby</a> - Full stack, cross distro packaging software (Ruby).</li>
+<li>
+<a href="http://packman.readthedocs.org">packman</a> - Full stack, cross distro packaging software (Python).</li>
+</ul><h2>
+<a name="queuing" class="anchor" href="#queuing"><span class="octicon octicon-link"></span></a>Queuing</h2>
+
+<ul>
+<li>
+<a href="http://kr.github.io/beanstalkd/">BeanstalkD</a> - A simple, fast work queue.</li>
+<li>
+<a href="http://nsq.io/">NSQ</a> - A realtime distributed messaging platform.</li>
+<li>
+<a href="http://www.rabbitmq.com/">RabbitMQ</a> - Robust, fully featured, cross distro queuing system.</li>
+<li>
+<a href="http://zeromq.org/">ZeroMQ</a> - Lightweight queuing system.</li>
+</ul><h2>
+<a name="rdbms" class="anchor" href="#rdbms"><span class="octicon octicon-link"></span></a>RDBMS</h2>
+
+<p><em>Relational DBMS.</em></p>
+
+<ul>
+<li>
+<a href="http://www.firebirdsql.org/">Firebird</a> - True universal open source database.</li>
+<li>
+<a href="http://galeracluster.com/">Galera</a> - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.</li>
+<li>
+<a href="https://mariadb.org/">MariaDB</a> - Community-developed fork of the MySQL.</li>
+<li>
+<a href="http://dev.mysql.com/">MySQL</a> - Most popular RDBMS server.</li>
+<li>
+<a href="http://www.percona.com/software">Percona Server</a> - Enhanced, drop-in MySQL replacement.</li>
+<li>
+<a href="http://www.postgresql.org/">PostgreSQL</a> - Object-relational database management system (ORDBMS).</li>
+<li>
+<a href="http://www.postgres-xl.org/">PostgreSQL-XL</a> - Scalable Open Source PostgreSQL-based database cluster.</li>
+<li>
+<a href="http://sqlite.org/">SQLite</a> - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.</li>
+</ul><h2>
+<a name="security" class="anchor" href="#security"><span class="octicon octicon-link"></span></a>Security</h2>
+
+<p><em>Security tools.</em></p>
+
+<ul>
+<li>
+<a href="http://www.fail2ban.org/wiki/index.php/Main_Page">Fail2Ban</a> - Scans log files and takes action on IPs that show malicious behavior.</li>
+</ul><h2>
+<a name="smtp" class="anchor" href="#smtp"><span class="octicon octicon-link"></span></a>SMTP</h2>
+
+<p><em>SMTP servers.</em></p>
+
+<ul>
+<li>
+<a href="http://www.exim.org/">Exim</a> - Message transfer agent (MTA) developed at the University of Cambridge.</li>
+<li>
+<a href="http://haraka.github.io/">Haraka</a> - A high-performance, pluginable SMTP server written in JavaScript.</li>
+<li>
+<a href="http://mailcatcher.me/">MailCatcher</a> - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.</li>
+<li>
+<a href="https://github.com/m242/maildrop">Maildrop</a> - Open Source disposable email SMTP server, also useful for development.</li>
+<li>
+<a href="https://opensmtpd.org/">OpenSMTPD</a> - Secure SMTP server implementation from the OpenBSD project.</li>
+<li>
+<a href="http://www.postfix.org/">Postfix</a> - Fast, easy to administer, and secure Sendmail replacement.</li>
+<li>
+<a href="http://cr.yp.to/qmail.html">Qmail</a> - Secure Sendmail replacement.</li>
+<li>
+<a href="http://www.sendmail.com/sm/open_source/">Sendmail</a> - Message transfer agent (MTA).</li>
+</ul><h2>
+<a name="software-containers" class="anchor" href="#software-containers"><span class="octicon octicon-link"></span></a>Software Containers</h2>
+
+<p><em>Operating system–level virtualization.</em></p>
+
+<ul>
+<li>
+<a href="http://www.docker.com/">Docker</a> - Open platform for developers and sysadmins to build, ship, and run distributed applications.</li>
+<li>
+<a href="http://openvz.org">OpenVZ</a> - Container-based virtualization for Linux.</li>
+</ul><h2>
+<a name="ssh" class="anchor" href="#ssh"><span class="octicon octicon-link"></span></a>SSH</h2>
+
+<p><em>SSH tools.</em></p>
+
+<ul>
+<li>
+<a href="http://www.harding.motd.ca/autossh/">autossh</a> - Automatically respawn ssh session after network interruption.</li>
+<li>
+<a href="http://sourceforge.net/projects/clusterssh/">Cluster SSH</a> - Controls a number of xterm windows via a single graphical console.</li>
+<li>
+<a href="http://www.netfort.gr.jp/%7Edancer/software/dsh.html.en">DSH</a> - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.</li>
+<li>
+<a href="http://mosh.mit.edu/">Mosh</a> - The mobile shell.</li>
+<li>
+<a href="http://code.google.com/p/parallel-ssh/">parallel-ssh</a> - Provides parallel versions of OpenSSH and related tools.</li>
+<li>
+<a href="http://code.google.com/p/sshpt/">SSH Power Tool</a> - Execute commands and upload files to many servers simultaneously without using pre-shared keys.</li>
+</ul><h2>
+<a name="statistics" class="anchor" href="#statistics"><span class="octicon octicon-link"></span></a>Statistics</h2>
+
+<p><em>Analytics software.</em></p>
+
+<ul>
+<li>
+<a href="http://www.analog.cx/">Analog</a> - The most popular logfile analyser in the world.</li>
+<li>
+<a href="http://piwik.org/">Piwik</a> - Free and open source web analytics application.</li>
+<li>
+<a href="http://www.webalizer.org/">Webalizer</a> - Fast, free web server log file analysis program.</li>
+</ul><h2>
+<a name="ticketing-systems" class="anchor" href="#ticketing-systems"><span class="octicon octicon-link"></span></a>Ticketing systems</h2>
+
+<p><em>Web-based ticketing system.</em></p>
+
+<ul>
+<li>
+<a href="http://www.bugzilla.org/">Bugzilla</a> - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.</li>
+<li>
+<a href="http://www.cerberusweb.com/">Cerb</a> - A group-based e-mail management project built with a commercial open source license.</li>
+<li>
+<a href="http://flyspray.org">Flyspray</a> - Web-based bug tracking system written in PHP.</li>
+<li>
+<a href="http://www.mantisbt.org/">MantisBT</a> - Another web-based bug tracking system.</li>
+<li>
+<a href="http://osticket.com/">osTicket</a> - Open source support ticket system.</li>
+<li>
+<a href="http://www.otrs.com/">Otrs</a> - A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.</li>
+<li>
+<a href="http://www.bestpractical.com/rt/">Request Tracker</a> - Ticket-tracking system written in Perl.</li>
+<li>
+<a href="http://www.thebuggenie.com">TheBugGenie</a> - Open source ticket system with extremely complete users rights granularity.</li>
+</ul><h2>
+<a name="troubleshooting" class="anchor" href="#troubleshooting"><span class="octicon octicon-link"></span></a>Troubleshooting</h2>
+
+<p><em>Troubleshooting Tools.</em></p>
+
+<ul>
+<li>
+<a href="http://mitmproxy.org/">mitmproxy</a> - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.</li>
+<li>
+<a href="http://www.sysdig.org/">Sysdig</a> - Capture system state and activity from a running Linux instance, then save, filter and analyze.</li>
+</ul><h2>
+<a name="project-management" class="anchor" href="#project-management"><span class="octicon octicon-link"></span></a>Project Management</h2>
+
+<p><em>Web-based project management and bug tracking systems.</em></p>
+
+<ul>
+<li>
+<a href="https://www.chiliproject.org">ChiliProject</a> - Fork of Redmine.</li>
+<li>
+<a href="https://www.gitlab.com/">GitLab</a> - Clone of GitHub written in ruby.</li>
+<li>
+<a href="http://gogs.io/">Gogs</a> - Written in Go.</li>
+<li>
+<a href="http://www.redmine.org/">Redmine</a> - Written in ruby on rails.</li>
+<li>
+<a href="http://www.thebuggenie.com/">The Bug Genie</a> - Written in PHP.</li>
+<li>
+<a href="http://trac.edgewall.org/">Trac</a> - Written in python.</li>
+</ul><h2>
+<a name="version-control" class="anchor" href="#version-control"><span class="octicon octicon-link"></span></a>Version control</h2>
+
+<p><em>Software versioning and revision control.</em></p>
+
+<ul>
+<li>
+<a href="http://www.fossil-scm.org/">Fossil</a> - Distributed version control with built-in wiki and bug tracking.</li>
+<li>
+<a href="http://git-scm.com/">Git</a> - Distributed revision control and source code management (SCM) with an emphasis on speed.</li>
+<li>
+<a href="http://bazaar.canonical.com/">GNU Bazaar</a> - Distributed revision control system sponsored by Canonical.</li>
+<li>
+<a href="http://mercurial.selenic.com/">Mercurial</a> - Another distributed revision control.</li>
+<li>
+<a href="http://subversion.apache.org/">Subversion</a> - Client-server revision control system.</li>
+</ul><h2>
+<a name="virtualization" class="anchor" href="#virtualization"><span class="octicon octicon-link"></span></a>Virtualization</h2>
+
+<p><em>Virtualization software.</em></p>
+
+<ul>
+<li>
+<a href="https://code.google.com/p/ganeti/">Ganeti</a> - Cluster virtual server management software tool built on top of KVM and Xen.</li>
+<li>
+<a href="http://www.linux-kvm.org">KVM</a> - Linux kernel virtualization infrastructure.</li>
+<li>
+<a href="http://www.ovirt.org/">oVirt</a> - Manages virtual machines, storage and virtual networks.</li>
+<li>
+<a href="http://www.packer.io/">Packer</a> - A tool for creating identical machine images for multiple platforms from a single source configuration.</li>
+<li>
+<a href="https://www.vagrantup.com/">Vagrant</a> - Tool for building complete development environments.</li>
+<li>
+<a href="https://www.virtualbox.org/">VirtualBox</a> - Virtualization product from Oracle Corporation.</li>
+<li>
+<a href="http://www.xenproject.org/">Xen</a> - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.</li>
+</ul><h2>
+<a name="vpn" class="anchor" href="#vpn"><span class="octicon octicon-link"></span></a>VPN</h2>
+
+<p><em>VPN software.</em></p>
+
+<ul>
+<li>
+<a href="https://community.openvpn.net">OpenVPN</a> - Uses a custom security protocol that utilizes SSL/TLS for key exchange.</li>
+<li>
+<a href="http://pritunl.com/">Pritunl</a> - OpenVPN based solution. Easy to set up.</li>
+<li>
+<a href="https://www.softether.org/">SoftEther</a> - Multi-protocol software VPN with advanced features</li>
+<li>
+<a href="https://github.com/apenwarr/sshuttle">sshuttle</a> - Poor man's VPN.</li>
+<li>
+<a href="http://www.strongswan.org/">strongSwan</a> - Complete IPsec implementation for Linux.</li>
+<li>
+<a href="http://www.tinc-vpn.org/">tinc</a> - Distributed p2p VPN.</li>
+</ul><h2>
+<a name="xmpp" class="anchor" href="#xmpp"><span class="octicon octicon-link"></span></a>XMPP</h2>
+
+<p><em>XMPP servers.</em></p>
+
+<ul>
+<li>
+<a href="http://www.ejabberd.im/">ejabberd</a> - XMPP instant messaging server written in Erlang/OTP.</li>
+<li>
+<a href="http://www.lightwitch.org/metronome">Metronome IM</a> - Fork of Prosody IM.</li>
+<li>
+<a href="https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform">MongooseIM</a> - Fork of ejabberd.</li>
+<li>
+<a href="http://www.igniterealtime.org/projects/openfire/">Openfire</a> - Real time collaboration (RTC) server.</li>
+<li>
+<a href="http://prosody.im/">Prosody IM</a> - XMPP server written in Lua.</li>
+<li>
+<a href="https://projects.tigase.org/projects/tigase-server">Tigase</a> - XMPP server implementation in Java.</li>
+</ul><h2>
+<a name="webmails" class="anchor" href="#webmails"><span class="octicon octicon-link"></span></a>Webmails</h2>
+
+<p><em>Webmail applications.</em></p>
+
+<ul>
+<li>
+<a href="http://rainloop.net/">RainLoop</a> - Simple, modern &amp; fast web-based IMAP client.</li>
+<li>
+<a href="http://roundcube.net/">Roundcube</a> - Browser-based IMAP client with an application-like user interface.</li>
+</ul><h2>
+<a name="web" class="anchor" href="#web"><span class="octicon octicon-link"></span></a>Web</h2>
+
+<p><em>Web servers.</em></p>
+
+<ul>
+<li>
+<a href="http://httpd.apache.org/">Apache</a> - Most popular web server.</li>
+<li>
+<a href="http://cherokee-project.com/">Cherokee</a> - Lightweight, high-performance web server/reverse proxy.</li>
+<li>
+<a href="http://www.lighttpd.net/">Lighttpd</a> - Web server more optimized for speed-critical environments.</li>
+<li>
+<a href="http://nginx.org/">Nginx</a> - Reverse proxy, load balancer, HTTP cache, and web server.</li>
+<li>
+<a href="https://github.com/unbit/uwsgi/">uWSGI</a> - The uWSGI project aims at developing a full stack for building hosting services.</li>
+</ul><p><em>Web Performance</em></p>
+
+<ul>
+<li>
+<a href="http://www.haproxy.org/">HAProxy</a> - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.</li>
+<li>
+<a href="https://www.varnish-cache.org/">Varnish</a> - HTTP based web application accelerator focusing on optimizing caching and compression.</li>
+</ul><h2>
+<a name="wikis" class="anchor" href="#wikis"><span class="octicon octicon-link"></span></a>Wikis</h2>
+
+<p><em>Wiki software.</em></p>
+
+<ul>
+<li>
+<a href="https://www.dokuwiki.org/dokuwiki">DokuWiki</a> - Simple to use and highly versatile wiki that doesn't require a database.</li>
+<li>
+<a href="http://ikiwiki.info/">ikiwiki</a> - A wiki compiler.</li>
+<li>
+<a href="http://www.mediawiki.org/wiki/MediaWiki">Mediawiki</a> - Used to power Wikipedia.</li>
+<li>
+<a href="http://moinmo.in/">MoinMoin</a> - An advanced, easy to use and extensible WikiEngine with a large community of users.</li>
+<li>
+<a href="http://tiddlywiki.com">TiddlyWiki</a> - Complete interactive wiki in JavaScript.</li>
+</ul><h1>
+<a name="resources" class="anchor" href="#resources"><span class="octicon octicon-link"></span></a>Resources</h1>
+
+<p>Various resources, such as books, websites and articles, for improving your skills and knowledge.</p>
+
+<h2>
+<a name="blogs" class="anchor" href="#blogs"><span class="octicon octicon-link"></span></a>Blogs</h2>
+
+<ul>
+<li>
+<a href="http://codeascraft.com/">Code as Craft</a> - Etsy's Ops blog, lots of technical posts.</li>
+<li>
+<a href="http://blog.devopsguys.com/">DevOpsGuys</a> - Devops consultants who blog about operations.</li>
+<li>
+<a href="http://developer.rackspace.com/blog/">Rackspace Developers</a> - Slightly biased blog with lots of Devops Topics.</li>
+</ul><h2>
+<a name="books" class="anchor" href="#books"><span class="octicon octicon-link"></span></a>Books</h2>
+
+<p><em>Sysadmin related books.</em></p>
+
+<ul>
+<li>
+<a href="http://linuxcommand.org/tlcl.php">The Linux Command Line</a> - A book about the Linux command line by William Shotts.</li>
+<li>
+<a href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</a> - How DevOps techniques can fix the problems that happen in IT organizations.</li>
+<li>
+<a href="http://everythingsysadmin.com/books.html">The Practice of System and Network Administration</a> - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.</li>
+<li>
+<a href="http://www.itpi.org/the-visible-ops-handbook-review.html">The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps</a> - Is a methodology designed to jumpstart implementation of controls and process improvement.</li>
+<li>
+<a href="http://www.admin.com/">UNIX and Linux System Administration Handbook</a> - Approaches system administration from a practical perspective.</li>
+</ul><h2>
+<a name="editors" class="anchor" href="#editors"><span class="octicon octicon-link"></span></a>Editors</h2>
+
+<p><em>Open source code editors.</em></p>
+
+<ul>
+<li>
+<a href="https://atom.io/">Atom</a> - A hackable text editor from Github.</li>
+<li>
+<a href="http://brackets.io/">Brackets</a> - Open source code editor for web designers and front-end developers.</li>
+<li>
+<a href="http://eclipse.org/">Eclipse</a> - IDE written in Java with an extensible plug-in system.</li>
+<li>
+<a href="http://www.geany.org/">Geany</a> - GTK2 text editor.</li>
+<li>
+<a href="http://www.gnu.org/software/emacs/">GNU Emacs</a> - An extensible, customizable text editor-and more.</li>
+<li>
+<a href="http://pad.haroopress.com/">Haroopad</a> - Markdown editor with live preview.</li>
+<li>
+<a href="http://icecoder.net">ICEcoder</a> - Code editor awesomeness, built with common web languages.</li>
+<li>
+<a href="https://github.com/jdleesmiller/jotgit">jotgit</a> - Git-backed real-time collaborative code editing.</li>
+<li>
+<a href="http://limetext.org/">Lime</a> - Aims to provide an open source solution to Sublime Text</li>
+<li>
+<a href="http://www.vim.org">Vim</a> - A highly configurable text editor built to enable efficient editing.</li>
+</ul><h2>
+<a name="repositories" class="anchor" href="#repositories"><span class="octicon octicon-link"></span></a>Repositories</h2>
+
+<p><em>Software package repositories.</em></p>
+
+<ul>
+<li>
+<a href="http://www.dotdeb.org/">Dotdeb</a> - Repository with LAMP updated packages for Debian.</li>
+<li>
+<a href="http://rpms.famillecollet.com/">Remi</a> - Repository with LAMP updated packages for RHEL/Centos/Fedora.</li>
+</ul><h2>
+<a name="websites" class="anchor" href="#websites"><span class="octicon octicon-link"></span></a>Websites</h2>
+
+<p><em>Useful sysadmin related websites.</em></p>
+
+<ul>
+<li>
+<a href="http://www.opsschool.org">Ops School</a> - Comprehensive program that will help you learn to be an operations engineer.</li>
+<li>
+<a href="https://www.digitalocean.com/community/tutorials">Digital Ocean Tutorials</a> - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)</li>
+</ul><h1>
+<a name="contributing" class="anchor" href="#contributing"><span class="octicon octicon-link"></span></a>Contributing</h1>
+
+<p>Please see <a href="https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md">CONTRIBUTING</a> for details.</p>
       </section>
     </div>
 
@@ -65,6 +915,16 @@
       </footer>
     </div>
 
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-8224475-6");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
 
 
   </body>
