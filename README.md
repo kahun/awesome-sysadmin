@@ -77,6 +77,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Computing
 
+* [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
@@ -147,7 +148,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
-* [Go](http://www.go.cd/) - Open source agile build and release management software.
+* [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
 
@@ -226,6 +227,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
+* [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Monitoring
 *Monitoring software.*
@@ -287,6 +289,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * Column-Family
   * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
   * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+  * [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
 * Document Store
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
   * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
@@ -404,8 +407,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby. 
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Written in Go.
+* [OpenProject](https://www.openproject.org) - Project collaboration with open source.
 * [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
