@@ -362,6 +362,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
+##Tools
+*MySQL tools*
+
+* [mydumper](https://launchpad.net/mydumper) - Multithreaded MySQL import/export tool replaces mysqldump.
+
 ## Troubleshooting
 *Troubleshooting Tools.*
 
