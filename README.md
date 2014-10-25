@@ -31,6 +31,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Troubleshooting](#troubleshooting)
   * [Project Management](#project-management)
   * [Version control](#version-control)
+  * [Git Web Interface](#git-web-interface)
   * [Virtualization](#virtualization)
   * [VPN](#vpn)
   * [XMPP](#xmpp)
