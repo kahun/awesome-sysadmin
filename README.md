@@ -366,6 +366,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 
+## Git Web Interface
+* [cgit](http://git.zx2c4.com/cgit/) - cgit is a fast and lightweight webinterface written in C.
+* [gitblit](http://gitblit.com/) - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
+
+
 ## Virtualization
 *Virtualization software.*
 
