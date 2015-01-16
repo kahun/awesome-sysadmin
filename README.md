@@ -427,6 +427,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Virtualization software.*
 
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
+* [Kimchi](https://kimchi-project.github.io/kimchi/) - HTML5 based management tool for KVM.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
