@@ -52,7 +52,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Contributing](#contributing)
 
 ## Backups
-*Backup software.*
+*备份软件.*
 
 * [Amanda](http://www.amanda.org/) - 客户端-服务器模型备份工具
 * [Bacula](http://www.bacula.org) - 另一个客户端-服务器模型备份工具
@@ -68,7 +68,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS支持策略的备份脚本
 
 ## Cloning
-*Cloning software.*
+*克隆软件.*
 
 * [Clonezilla](http://clonezilla.org/) - 分区和磁盘镜像/克隆程序
 * [Fog](http://www.fogproject.org/) - 另一个计算机克隆解决方案
@@ -112,7 +112,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Review Board](https://www.reviewboard.org/) - 基于MIT License的可用自由软件
 
 ## Collaborative Software
-*Collaborative software or groupware suites.*
+*协作软件和群件套件.*
 
 * [Citadel/UX](http://www.citadel.org/) - 协同套件（消息和群件）继承于Citadel家族程序
 * [EGroupware](http://www.egroupware.org/) - PHP编写的群件软件
@@ -152,7 +152,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - 自动化部署
 
 ## Distributed Filesystems
-*Network distributed filesystems.*
+*网络分布式文件系统.*
 
 * [Ceph](http://ceph.com/) - 分布式对象存储和文件系统
 * [DRBD](http://www.drbd.org/) - 分布式块设备复制
@@ -167,7 +167,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS是一个用于存储需求的容错式分布式文件系统。
 
 ## DNS
-*DNS servers.*
+*DNS服务器.*
 
 * [Bind](https://www.isc.org/downloads/bind/) - 最广泛使用的域名服务软件
 * [djbdns](http://cr.yp.to/djbdns.html) - DNS应用集合，包括tinydns
@@ -180,7 +180,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Yadifa](http://yadifa.eu/) -  具有DNSSEC兼容的轻量级的权威域名服务器，支持.eu的顶级域名。
 
 ## Hosting Control Panels
-*Web hosting control panels*
+*Web主机控制面板*
 
 * [Ajenti](http://ajenti.org/) - Linux和BSD控制面板
 * [Feathur](http://feathur.com) -  VPS供应和管理软件
@@ -190,7 +190,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [ZPanel](http://www.zpanelcp.com/) - Linux BSD和Windows控制面板
 
 ## IMAP/POP3
-*IMAP/POP3 mail servers.*
+*IMAP/POP3邮件服务器.*
 
 * [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - 快速，可伸缩，企业级IMAP和POP3服务器
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - 运行在密封服务器上,普通用户不允许登录。
@@ -198,7 +198,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) -  一个古老且流行的POP3服务器实现
 
 ## IT Asset Management
-*IT Assets Management software.*
+*IT资产管理软件.*
 
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - 带有额外管理接口的信息资源管理器
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - 允许用户清算IT资产
@@ -207,7 +207,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Snipe IT](http://snipeitapp.com/) - 资产和许可证管理软件
 
 ## LDAP
-*LDAP servers.*
+*LDAP服务器.*
 
 * [389 Directory Server](http://port389.org) -  通过Red Hat部署
 * [Apache Directory Server](http://directory.apache.org/) - 用Java编写的Apache软件基金会项目
@@ -217,7 +217,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenLDAP](http://openldap.org/) - 由OpenLDAP项目开发
 
 ## Log Management
-*Log management tools: collect, parse, visualize ...*
+*日志管理工具：收集，解析，可视化 ...*
 
 * [Elasticsearch](http://www.elasticsearch.org/) -  一个基于Lucene的文档存储，主要用于日志索引、存储和分析。
 * [Fluentd](http://www.fluentd.org/) -  日志收集和发出
@@ -229,7 +229,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Octopussy](http://www.octopussy.pm) - 日志管理解决方案（可视化/报警/报告）
 
 ## Monitoring
-*Monitoring software.*
+*监控软件.*
 
 * [Cacti](http://www.cacti.net) - 基于Web的网络监控和图形工具
 * [Cabot](http://cabotapp.com/) -  监控和报警，类似PagerDuty
@@ -254,7 +254,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Zenoss](http://community.zenoss.org) - 基于Zope的应用，服务器和网络管理平台
 
 ## Metric & Metric Collection
-*Metric gathering and display software.*
+*度量收集和显示软件.*
 
 * [Collectd](http://collectd.org/) - 系统统计收集守护进程
 * [Collectl](http://collectl.sourceforge.net/) - 高精度系统性能指标收集工具。
@@ -270,20 +270,20 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Statsd](https://github.com/etsy/statsd/) - 应用统计监听
 
 ## Network Configuration Management
-*Network configuration management tools.*
+*网络配置管理工具.*
 
 * [GestióIP](http://www.gestioip.net/) - 一个自动的基于web的IPV4/IPV6地址管理工具
 * [RANCID](http://www.shrubbery.net/rancid/) - 监控网络设备配置和维护历史变更
 * [rConfig](http://www.rconfig.com/) - 另一个网络配置管理工具
 
 ## Newsletters
-*Newsletter software.*
+*时事通讯软件.*
 
 * [DadaMail](http://dadamailproject.com/) - Perl编写的邮件列表管理器
 * [phpList](http://www.phplist.com/) - PHP编写的时事通讯管理器
 
 ## NoSQL
-*NoSQL databases.*
+*NOSQL数据库.*
 
 * Column-Family
   * [Apache HBase](http://hbase.apache.org/) -  Hadoop数据库，一个分布式的大数据存储
@@ -303,7 +303,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Redis](http://redis.io/) -  支持网络，基于内存，键值，亦可持久化数据库
   * [Riak](http://basho.com/riak/) - 另一个容错的键值NoSQL数据库
 
-Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+NoSQL服务器比较: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
 ## Packaging
 
@@ -321,7 +321,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [ZeroMQ](http://zeromq.org/) - 轻量级队列系统
 
 ## RDBMS
-*Relational DBMS.*
+*关系数据库管理系统.*
 
 * [Firebird](http://www.firebirdsql.org/) -  真正的全球开源数据库
 * [Galera](http://galeracluster.com/) - Galera MySQL集群是一个易于使用的高可用性解决方案，具有很高的系统正常运行时间,没有数据丢失,为未来的增长提供可伸缩性。
@@ -333,7 +333,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [SQLite](http://sqlite.org/) - 自包容，弱服务器，零配置，支持事务的SQL DBS实现库
 
 ## Security
-*Security tools.*
+*安全工具.*
 
 * [Denyhosts](http://denyhosts.sourceforge.net/) - 阻止SSH字典攻击和暴力攻击
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) -  扫描日志文件，并对具有恶意行为显示的IP采取措施
@@ -346,7 +346,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [ZooKeeper](http://zookeeper.apache.org/) -  ZooKeeper是一个集中的服务，用于维护配置信息，命名，提供分布式同步和组服务
 
 ## SMTP
-*SMTP servers.*
+*SMTP服务器.*
 
 * [Exim](http://www.exim.org/) - 由剑桥大学开发的消息传输代理（MTA)
 * [Haraka](http://haraka.github.io/) -  用JavaScirpt编写的高性能，可插入的SMTP服务器
@@ -358,14 +358,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - 消息传输代理（MTA)
 
 ## Software Containers
-*Operating system–level virtualization.*
+*操作系统级别的虚拟化.*
 
 * [Bitnami](https://bitnami.com/) - 为web应用，开发栈和虚拟设备生产开源软件安装器或软件包
 * [Docker](http://www.docker.com/) -  给开发者和系统管理员构建，发布和运行分布式应用程序的开放平台
 * [OpenVZ](http://openvz.org) - Linux平台基于容器的虚拟化
 
 ## SSH
-*SSH tools.*
+*SSH工具.*
 
 * [autossh](http://www.harding.motd.ca/autossh/) - 网络中断后自动复位ssh会话。
 * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - 通过一个图形化控制台控制多个xterm窗口。
@@ -375,7 +375,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - 不使用pre-shared钥匙的情况下对多个服务器同时执行命令和上传文件
 
 ## Statistics
-*Analytics software.*
+*分析软件.*
 
 * [Analog](http://www.analog.cx/) -  世界上最流行的日志分析工具
 * [GoAccess](http://goaccess.io/) - 在终端运行的开源的实时web日志分析和交互视图
@@ -383,7 +383,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Webalizer](http://www.webalizer.org/) -  F快速免费的web服务器日志文件分析程序
 
 ## Ticketing systems
-*Web-based ticketing system.*
+*基于web的工单系统.*
 
 * [Bugzilla](http://www.bugzilla.org/) - 由Mozilla项目开发和使用过的通用缺陷跟踪和测试工具
 * [Cerb](http://www.cerberusweb.com/) -  基于商业开源许可的基于组的邮件管理项目
@@ -395,14 +395,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [TheBugGenie](http://www.thebuggenie.com) - 开源的工单系统，具有非常完备的用户权限分配
 
 ## Troubleshooting
-*Troubleshooting Tools.*
+*故障排除工具.*
 
 * [mitmproxy](http://mitmproxy.org/) - ython工具，用于拦截,查看和修改网络流量。在排除某些问题是非常重要的。
 * [Sysdig](http://www.sysdig.org/) - 从一个运行的linux实例上捕获系统状态和活动，之后保存，过滤和分析
 * [Wireshark](http://www.wireshark.org/) - 世界上著名的网络协议分析工具
 
 ## Project Management
-*Web-based project management and bug tracking systems.*
+*基于web的项目管理和缺陷跟踪系统.*
 
 * [ChiliProject](https://www.chiliproject.org) -  Redmine分支
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
@@ -415,7 +415,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Trac](http://trac.edgewall.org/) - python编写
 
 ## Version control
-*Software versioning and revision control.*
+*软件版本和版本控制.*
 
 * [Fossil](http://www.fossil-scm.org/) - 分布式版本控制，内建wiki和缺陷跟踪
 * [Git](http://git-scm.com/) - 速度很快的分布式版本控制和源代码管理
@@ -424,7 +424,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Subversion](http://subversion.apache.org/) - 客户端-服务器版本控制系统
 
 ## Virtualization
-*Virtualization software.*
+*虚拟化软件.*
 
 * [Ganeti](https://code.google.com/p/ganeti/) - 在KVM和Xen上构建的集群虚拟服务器管理软件
 * [KVM](http://www.linux-kvm.org) - Linux内核虚拟化架构
@@ -435,7 +435,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Xen](http://www.xenproject.org/) - 用于32/64位Intel/AMD(IA 64）和PowerPC 970架构的虚拟机监控器
 
 ## VPN
-*VPN software.*
+*VPN软件.*
 
 * [OpenVPN](https://community.openvpn.net) - 使用一个定制的安全密钥交换协议,利用SSL / TLS。
 * [Pritunl](http://pritunl.com/) - 基于OpenVPN的方案，易于设置
@@ -445,7 +445,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [tinc](http://www.tinc-vpn.org/) - 分布式点对点VPN
 
 ## XMPP
-*XMPP servers.*
+*XMPP服务器.*
 
 * [ejabberd](http://www.ejabberd.im/) - 用Erlang/OTP编写的XMPP短信服务器
 * [Metronome IM](http://www.lightwitch.org/metronome) - Prosody IM分支
@@ -455,13 +455,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - java实现的XMPP服务器
 
 ## Webmails
-*Webmail applications.*
+*Webmail应用.*
 
 * [Mailpile](https://www.mailpile.is/) -  一个先进，快速的web-mail客户端，具有用户友好的加密的私有个性
 * [Roundcube](http://roundcube.net/) -  基于浏览器的IMAP客户端，具有应用类似的用户界面
 
 ## Web
-*Web servers.*
+*Web服务器.*
 
 * [Apache](http://httpd.apache.org/) - 最流行的web服务器
 * [Cherokee](http://cherokee-project.com/) - 轻量级，高性能的web服务器/反向代理
@@ -469,14 +469,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Nginx](http://nginx.org/) - 反向代理，负载均衡器，HTTP缓存和web服务器
 * [uWSGI](https://github.com/unbit/uwsgi/) - uWSGI项目，目标在开发一个构建主机服务的全栈
 
-*Web Performance*
+*Web性能*
 
 * [HAProxy](http://www.haproxy.org/) -  负载均衡，SSL卸载和性能优化，压缩和通用web路由
 * [Varnish](https://www.varnish-cache.org/) - 基于HTTP的web应用加速器，关注内存优化和压缩
 
 
 ## Wikis
-*Wiki software.*
+*Wiki软件.*
 
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) - 使用简单和高度通用的wiki,这并不需要一个数据库。
 * [Gollum](https://github.com/gollum/gollum) -  一个简单,Git-powered wiki，具有不错的API和本地前端。
@@ -487,7 +487,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [TiddlyWiki](http://tiddlywiki.com) -  JavaScript的完整交互wiki
 
 # Resources
-Various resources, such as books, websites and articles, for improving your skills and knowledge.
+各种资源，比如书籍，网站和文章，用于提升技能和知识.
 
 ## Blogs
 
@@ -496,16 +496,16 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Rackspace Developers](http://developer.rackspace.com/blog/) - 具有大量Devops主题的博客
 
 ## Books
-*Sysadmin related books.*
+*Sysadmin相关书籍.*
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) -  William Shotts的书，关于Linux命令行
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - DevOps技术如何修复发生在IT组织的问题
-* [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) -  第一和第二版本描述系统和网络管理的最佳实践,独立于特定平台或技术。independent of specific platforms or technologies.
+* [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) -  第一和第二版本描述系统和网络管理的最佳实践,独立于特定平台或技术。
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - 一个方法论,旨在启动实施控制和过程改进。
 * [UNIX and Linux System Administration Handbook](http://www.admin.com/) -  从使用的角度走进系统管理
 
 ## Editors
-*Open source code editors.*
+*开源的代码编辑器.*
 
 * [Atom](https://atom.io/) - 来自Github的文本编辑器
 * [Brackets](http://brackets.io/) -  用于web设计和前端开发的开源代码编辑器
@@ -525,16 +525,16 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Servers for Hackers](http://serversforhackers.com/) - 程序员的时事通讯，发现他们需要知道的服务器相关内容。
 
 ## Repositories
-*Software package repositories.*
+*软件包存储.*
 
 * [Dotdeb](http://www.dotdeb.org/) - Debian下LAMP更新包的存储
 * [Remi](http://rpms.famillecollet.com/) - RHEL/Centos/Fedora下LAMP更新包的存储
 
 ## Websites
-*Useful sysadmin related websites.*
+*有用的系统管理员相关的网站.*
 
 * [Ops School](http://www.opsschool.org) - 全面的计划,将帮助你成为一名运维工程师。
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 一个非常庞大资源，获得基本的应用程序，工具,甚至是系统管理主题。
 
 # Contributing
-Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+请看 [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) 贡献详情.
