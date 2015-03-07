@@ -13,9 +13,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [配置管理](#配置管理)
   * [持续继承和持续部署](#持续继承和持续部署)
   * [分布式文件系统](#分布式文件系统)
-  * [DNS](#DNS)
+  * [DNS](#dns)
   * [主机控制面板](#主机控制面板)
-  * [IMAP](#IMAP)
+  * [IMAP](#imap)
   * [IT资产管理](#IT资产管理)
   * [LDAP](#LDAP)
   * [日志管理](#日志管理)
@@ -23,7 +23,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [度量和度量收集](#度量和度量收集)
   * [网络配置管理](#网络配置管理)
   * [时事通讯](#时事通讯)
-  * [NOSQL](#NOSQL)
+  * [NOSQL](#nosql)
   * [打包](#打包)
   * [队列](#队列)
   * [RDBMS](#RDBMS)
@@ -152,7 +152,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Jenkins](http://jenkins-ci.org/) - 一个可扩展的开源持续集成服务器
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - 自动化部署
 
-分布式文件系统
+## 分布式文件系统
 *网络分布式文件系统.*
 
 * [Ceph](http://ceph.com/) - 分布式对象存储和文件系统
