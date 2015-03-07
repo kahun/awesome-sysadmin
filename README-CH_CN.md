@@ -2,7 +2,7 @@
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
-  * [Backups](#backups)
+  * [备份](#备份)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
@@ -51,7 +51,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Websites](#websites)
 * [Contributing](#contributing)
 
-## Backups
+## 备份
 *备份软件.*
 
 * [Amanda](http://www.amanda.org/) - 客户端-服务器模型备份工具
