@@ -84,6 +84,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+* [SmartDataCenter](https://github.com/joyent/sdc) - Open source private and hybrid cloud hosting platform.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 
 ## Cloud Orchestration
