@@ -548,4 +548,4 @@ Various resources, such as books, websites and articles, for improving your skil
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/mgarces/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
-Remember that this list is a fork from the project [Awesome-Syadmin](https://github.com/kahun/awesome-sysadmin), and that if you want to contribute, you should head over the original project; I find that Awesome-Sysadmin is not being updated so often, that why we did the fork, to be used inside this site.
+Remember that this list is a fork from the project [Awesome-Syadmin](https://github.com/kahun/awesome-sysadmin), and that if you want to contribute, you should head over the original project; We find that Awesome-Sysadmin is not being updated so often, thats why we did the fork, to be used inside this site.
