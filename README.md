@@ -7,10 +7,10 @@ tags: [tools, opensource, sysadmin, projects, list]
 excerpt: "Collection of tools for sysadmins. Based on Awesome Sysadmin project"
 ---
 
-# Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
+# A list in progress:
+A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
-* [Awesome Sysadmin](#awesome-sysadmin)
+* [sysadmin.pt tools](#sysadminpt-tools)
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
@@ -547,4 +547,5 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
 
 # Contributing
-Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/mgarces/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+Remember that this list is a fork from the project [Awesome-Syadmin](https://github.com/kahun/awesome-sysadmin), and that if you want to contribute, you should head over the original project; I find that Awesome-Sysadmin is not being updated so often, that why we did the fork, to be used inside this site.
