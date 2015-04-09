@@ -1,3 +1,12 @@
+---
+layout: page
+title: Tools
+created: 2015-04-08
+modified: 2015-04-09
+tags: [tools, opensource, sysadmin, projects, list]
+excerpt: "Collection of tools for sysadmins. Based on Awesome Sysadmin project"
+---
+
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
