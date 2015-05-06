@@ -140,6 +140,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* [confd](https://github.com/kelseyhightower/confd) - It's written in Go and manages local application configuration files using templates and data from etcd or consul
 
 ## Continuous Integration & Continuous Deployment
 *Continuous integration/deployment software.*
