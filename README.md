@@ -150,6 +150,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
+* [Strider](https://github.com/Strider-CD/strider) - Brilliant Continuous Deployment
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
