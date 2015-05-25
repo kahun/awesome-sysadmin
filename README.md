@@ -59,7 +59,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
-* [Cobian Backup](http://www.cobiansoft.com/) - Freeware Backup Software for  client stations.
+* [Cobian Backup](http://www.cobiansoft.com/) - Freeware Backup Software for Windows client stations.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
@@ -518,6 +518,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [NetBeans](https://netbeans.org/) - IDE for Java/Html/PHP/C++  with an extensible plug-in system.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
