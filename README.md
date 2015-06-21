@@ -352,6 +352,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
 * [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
 * [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
+* [MailHog](https://github.com/mailhog/MailHog) - Inspired by MailCatcher written in Go, SMTP MTA, web UI and retrieve them with the JSON API.
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
