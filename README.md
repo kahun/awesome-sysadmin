@@ -149,6 +149,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
+* [Samson](https://github.com/zendesk/samson) - GitHub Deployment web interface.
+* [Shipit](https://github.com/Shopify/shipit-engine) - Shipit is a deployment tool to build and deploy GitHub repos.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
 
 ## Distributed Filesystems
