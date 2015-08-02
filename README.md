@@ -55,9 +55,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+* [Attic](https://attic-backup.org/) - File deduplication with Python3 and git. 
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
+* [Bup](https://bup.github.io/) - File backup and deduplication with Python and git.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
