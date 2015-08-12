@@ -200,6 +200,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## IT Asset Management
 *IT Assets Management software.*
 
+* [FusionInventory](http://fusioninventory.org/) - Enables users to inventory their IT assets (Can be integrated with GLPI using a plugin).
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
