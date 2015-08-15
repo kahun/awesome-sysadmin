@@ -226,6 +226,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Lnav](http://lnav.org/) - An advanced log file viewer for the small-scale. Watch and analyze your log files from a terminal. No server.  No setup.  Still featureful.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
