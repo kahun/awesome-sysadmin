@@ -95,6 +95,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
+* [NixOps](https://nixos.org/nixops/) -  a tool for declarative deploying sets of [NixOS](https://nixos.org) Linux machines. It extends [Nix](https://nixos.org/nix/)’s declarative approach to system configuration management to networks and adds provisioning.
 
 ## Cloud Storage
 
@@ -140,6 +141,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* [NixOS](https://nixos.org) - a Linux distribution with a unique approach to package and configuration management, built on top of the [Nix](https://nixos.org/nix) package manager, it is completely declarative and functional (as in fp).
 
 ## Continuous Integration & Continuous Deployment
 *Continuous integration/deployment software.*
@@ -311,6 +313,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
+* [Nix](https://nixos.org/nix) - a purely functional package manager for Linux, other Unix systems and even Windows. It makes package management reliable and reproducible. It provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments
 
 ## Queuing
 
