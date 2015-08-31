@@ -128,6 +128,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
+* [Plural] (https://github.com/marshyski/plural) - ElasticSearch backed Linux inventory, also includes Amazon Web Services metadata, and running docker containers.
 
 ## Configuration Management
 *Configuration management tools.*
