@@ -92,6 +92,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
+* [OpenShift Origin](http://www.openshift.org/) - PaaS platform built on Docker and Kubernetes using a foundation of Atomic and Enterprise Linux.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
