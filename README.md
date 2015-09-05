@@ -216,6 +216,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
 
+*LDAP management*
+
+* [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
 
