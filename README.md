@@ -333,8 +333,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Queuing software*
 
+* [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
+* [Kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 
