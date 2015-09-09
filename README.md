@@ -52,6 +52,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Contributing](#contributing)
 
 ## Backups
+
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
@@ -65,6 +66,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
+
+*Backup libraries.*
+
+* [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 
 ## Cloning
