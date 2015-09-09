@@ -363,6 +363,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 
+*Firewalls.*
+
+* [IPCop](http://www.ipcop.org/) - The IPCop Firewall is a Linux firewall distribution.
+* [iptables-boilerplate](https://github.com/bmaeser/iptables-boilerplate) - Rock solid default firewall-rules for webhosts.
+* [ufw](https://launchpad.net/ufw) - Ufw stands for Uncomplicated Firewall, and is program for managing a netfilter firewall.
+* [Shorewall](http://www.shorewall.net/) - Shorewall is a gateway/firewall configuration tool for GNU/Linux.
+
 ## Service Discovery
 
 * [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
