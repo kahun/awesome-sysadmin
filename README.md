@@ -425,6 +425,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
+* [Servo](https://github.com/Netflix/servo) - A simple interface for exposing and publishing application metrics in Java.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
 ## Network Configuration Management
