@@ -388,6 +388,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
+* [SimianArmy](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your AWS cloud operating in top form.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
