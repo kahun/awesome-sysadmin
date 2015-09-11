@@ -97,7 +97,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
-* [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -115,13 +115,13 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distribution of data.
 
 ## Code Review
 *Web Based collaborative code review system.*
 
 * [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
-* [Review Board](https://www.reviewboard.org/) - Available as free software uner the MIT License.
+* [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
@@ -167,7 +167,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network distributed filesystems.*
 
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
-* [DRBD](http://www.drbd.org/) - Disributed Replicated Block Device.
+* [DRBD](http://www.drbd.org/) - Distributed Replicated Block Device.
 * [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
@@ -279,7 +279,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-* [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scalable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
@@ -290,7 +290,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Network configuration management tools.*
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
-* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
 ## Newsletters
