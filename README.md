@@ -147,6 +147,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
+* [confd](https://github.com/kelseyhightower/confd) - It's written in Go and manages local application configuration files using templates and data from etcd or consul.
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
