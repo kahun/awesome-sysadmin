@@ -61,6 +61,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
+* [Cobian Backup](http://www.cobiansoft.com/) - Freeware Backup Software for Windows client stations.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
@@ -446,6 +447,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 * [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+* [TortoiseSVN](http://tortoisesvn.net/) - Windows Client  for SVN.
 
 ## Virtualization
 *Virtualization software.*
@@ -541,6 +543,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [NetBeans](https://netbeans.org/) - IDE for Java/Html/PHP/C++  with an extensible plug-in system.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
