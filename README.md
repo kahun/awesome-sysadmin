@@ -357,6 +357,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
 ## Security
+*Identity management*
+
+* [FreeIPA](http://www.freeipa.org/) - Integrated security information management solution combining Linux, 389 Directory Server, MIT Kerberos, NTP, DNS, Dogtag (Certificate System).
+
 *Security tools.*
 
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
