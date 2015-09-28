@@ -206,6 +206,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
+* [DBMail IMAP4/POP3/LMTP](https://github.com/pjstevns/dbmail) - Fast and scalable email services, storage of mail messages in a relational database.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
 
