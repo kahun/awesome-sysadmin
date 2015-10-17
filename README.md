@@ -482,6 +482,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Webmail applications.*
 
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
+* [RainLoop](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client, no database required.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 
 ## Web
