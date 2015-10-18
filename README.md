@@ -190,6 +190,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+* [gdnsd](http://gdnsd.org/) - Authoritative-only DNS server which does geographic (or other sorts of) balancing, redirection, weighting, and service-state-conscious failover at the DNS layer.
 
 ## Hosting Control Panels
 *Web hosting control panels*
