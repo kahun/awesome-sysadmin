@@ -57,6 +57,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
+* [Bareos](http://www.bareos.org) - Fork of Bacula.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
