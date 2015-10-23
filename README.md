@@ -345,6 +345,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Queuing libraries*
 
 * [ZeroMQ](http://zeromq.org/) -  High-performance asynchronous messaging library.
+* [Nanomsg](http://nanomsg.org/) - nanomsg is a socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use.
 
 ## RDBMS
 *Relational DBMS.*
