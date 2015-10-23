@@ -6,6 +6,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
+  * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
@@ -22,8 +23,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
+  * [Packaging](#packaging)
+  * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Security](#security)
+  * [Service Discovery](#service-discovery)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
@@ -42,24 +46,32 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Blogs](#blogs)
   * [Books](#books)
   * [Editors](#editors)
+  * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
 
 ## Backups
+
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
+* [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
+* [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
+
+*Backup libraries.*
+
+* [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 
 ## Cloning
@@ -71,23 +83,30 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Computing
 
+* [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
+* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
-* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. 
-* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 
 ## Cloud Orchestration
 
+* [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
+* [serf](http://www.serfdom.io/) - Serf is a tool for cluster membership 
+* [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
+* [zookeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+* [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
+* [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data. 
 
 ## Cloud Storage
 
@@ -98,13 +117,20 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 * [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
 
+## Code Review
+*Web Based collaborative code review system.*
+
+* [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
+* [Review Board](https://www.reviewboard.org/) - Available as free software uner the MIT License.
+
 ## Collaborative Software
 *Collaborative software or groupware suites.*
 
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
 * [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
+* [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
 * [Kolab](https://www.kolab.org) - Another groupware suite.
-* [SOGo](https://www.sogo.nu/) -  Collaborative software server with a focus on simplicity and scalability.
+* [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
 ## Configuration Management Database
@@ -131,16 +157,18 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Continuous integration/deployment software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
+* [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
-* [Go](http://www.go.cd/) - Open source agile build and release management software.
+* [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
-* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
+* [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
 
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
 * [DRBD](http://www.drbd.org/) - Disributed Replicated Block Device.
+* [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 * [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
@@ -200,6 +228,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
 
+*LDAP management*
+
+* [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
 
@@ -210,13 +242,16 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
+* [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Monitoring
 *Monitoring software.*
 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
+* [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
+* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -242,10 +277,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
-* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
+* [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
@@ -269,6 +305,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * Column-Family
   * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
   * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+  * [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
 * Document Store
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
   * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
@@ -290,13 +327,22 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
+* [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
 ## Queuing
 
+*Queuing software*
+
+* [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
+* [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
+* [Kafka](http://kafka.apache.org/) - A high-throughput distributed messaging system.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
-* [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
+
+*Queuing libraries*
+
+* [ZeroMQ](http://zeromq.org/) -  High-performance asynchronous messaging library.
 
 ## RDBMS
 *Relational DBMS.*
@@ -313,7 +359,15 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Security
 *Security tools.*
 
+* [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
+
+## Service Discovery
+
+* [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
+* [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+* [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
 ## SMTP
 *SMTP servers.*
@@ -330,6 +384,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Software Containers
 *Operating system–level virtualization.*
 
+* [Bitnami](https://bitnami.com/) - Produces open source installers or software packages for web applications and development stacks as well as virtual appliances.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
@@ -346,7 +401,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Statistics
 *Analytics software.*
 
-* [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
+* [Analog](http://www.web42.com/analog/) - The most popular logfile analyser in the world.
+* [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
@@ -367,13 +423,17 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
 
 * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
+* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Written in Go.
+* [OpenProject](https://www.openproject.org) - Project collaboration with open source.
+* [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
@@ -421,7 +481,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Webmails
 *Webmail applications.*
 
-* [RainLoop](http://rainloop.net/) - Simple, modern & fast web-based IMAP client.
+* [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 
 ## Web
@@ -443,9 +503,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Wiki software.*
 
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
+* [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
 * [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
 * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
+ * [Ōlelo Wiki](https://github.com/minad/olelo) - A a wiki that stores pages in a Git repository.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
 
 # Resources
@@ -477,8 +539,14 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+
+## Newsletters
+
+* [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
 
 ## Repositories
 *Software package repositories.*
@@ -490,7 +558,7 @@ Various resources, such as books, websites and articles, for improving your skil
 *Useful sysadmin related websites.*
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
