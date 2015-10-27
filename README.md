@@ -102,11 +102,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
-* [serf](http://www.serfdom.io/) - Serf is a tool for cluster membership 
+* [serf](http://www.serfdom.io/) - Serf is a tool for cluster membership
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [zookeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 * [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
-* [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data. 
+* [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 
 ## Cloud Storage
 
@@ -457,6 +457,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
+* [xhyve](https://github.com/mist64/xhyve) - A lightweight OS X virtualization solution.
 
 ## VPN
 *VPN software.*
