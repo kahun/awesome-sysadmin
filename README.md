@@ -467,6 +467,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [OpenConnect VPN Server](http://www.infradead.org/ocserv/) - OpenConnect server (ocserv) is an SSL VPN server.
 
 ## XMPP
 *XMPP servers.*
