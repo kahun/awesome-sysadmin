@@ -397,6 +397,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Mosh](http://mosh.mit.edu/) - The mobile shell.
 * [parallel-ssh](http://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
+* [Sshfs](https://github.com/libfuse/sshfs/) - Mount remote folders using ssh.
+* [sshfsmux](https://code.google.com/p/sshfsmux/) - `sshfs` + merge mount.
 
 ## Statistics
 *Analytics software.*
