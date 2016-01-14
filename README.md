@@ -121,7 +121,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Web Based collaborative code review system.*
 
 * [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
-* [Review Board](https://www.reviewboard.org/) - Available as free software uner the MIT License.
+* [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
