@@ -191,6 +191,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
+* [(R)?ex](https://www.rexify.org/) - It's written in Perl and use plain Perl, over SSH without agent.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
@@ -382,6 +383,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
+* [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
@@ -526,6 +528,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+* [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
 
 ## SSH
 
