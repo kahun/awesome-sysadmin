@@ -57,7 +57,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
-* [Bareos](http://www.bareos.org) - Bacula fork, made because open-source Bacula version almost stopped progress.
+* [Bareos](http://www.bareos.org) - Open Source Data Protection. Fork of Bacula.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
@@ -99,16 +99,16 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
+* [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
+* [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+* [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
-* [serf](http://www.serfdom.io/) - Serf is a tool for cluster membership 
-* [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
+* [serf](http://www.serfdom.io/) - Serf is a tool for cluster membership.
 * [zookeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
-* [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
-* [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data. 
 
 ## Cloud Storage
 
@@ -138,10 +138,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
 
+* [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 * [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
 * [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
-* [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 
 ## Configuration Management
 *Configuration management tools.*
@@ -253,7 +253,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
-* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -261,16 +260,23 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
-* [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-* [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+
+*Monitoring dashboards.*
+
+* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+
+*Monitoring distributions.*
+
+* [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 
 ## Metric & Metric Collection
 *Metric gathering and display software.*
@@ -333,7 +339,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
-*Queuing software*
+*Queuing software.*
 
 * [ActiveMQ](http://activemq.apache.org/) - An open source message broker written in Java together with a full JMS client.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
@@ -342,7 +348,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 
-*Queuing libraries*
+*Queuing libraries.*
 
 * [ZeroMQ](http://zeromq.org/) -  High-performance asynchronous messaging library.
 
