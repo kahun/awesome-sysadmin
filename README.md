@@ -91,7 +91,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
-* [Openshift Origin](https://openshift.github,io) - Open source upstream of OpenShift, the next generation application hosting platform developed by Red Hat.
+* [Openshift Origin](https://www.openshift.org/) - Open source upstream of OpenShift, the next generation application hosting platform developed by Red Hat.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 
