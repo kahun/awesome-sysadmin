@@ -498,6 +498,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
+* [Squirrelmail](http://squirrelmail.org/) - Lightweight and standards-based webmail package written in PHP.
 
 ## Web
 *Web servers.*
@@ -511,8 +512,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web Performance*
 
 * [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
+* [Squid](http://www.squid-cache.org/) - Caching proxy for the web supporting HTTP, HTTPS, FTP, and more.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
-
 
 ## Wikis
 *Wiki software.*
