@@ -420,11 +420,15 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
 ## Troubleshooting
-*Troubleshooting Tools.*
+*Troubleshooting tools.*
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
+
+*Troubleshooting distributions.*
+
+* [TRK](http://trinityhome.org) - Linux toolkit as a livecd for general computer troubleshooting. Useful for Win, Linux, and OSX.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
