@@ -124,6 +124,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [Openshift Origin](https://www.openshift.org/) - Open source upstream of OpenShift, the next generation application hosting platform developed by Red Hat.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+* [SmartDataCenter](https://github.com/joyent/sdc) - Open source cloud management platform with Docker API compatibility.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Tsuru](http://www.tsuru.io/) - Tsuru is an extensible and open source Platform as a Service software.
 
