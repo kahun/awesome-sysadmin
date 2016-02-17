@@ -289,6 +289,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Newsletter software.*
 
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
+* [GNU Mailman](https://www.gnu.org/software/mailman/) - GNU Project application for managing electronic mailing lists.
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 
 ## NoSQL
