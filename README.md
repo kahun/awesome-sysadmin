@@ -91,6 +91,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
 * [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
+* [Bazel](http://bazel.io/) - Build tool focused on reproducability and scalability with support for multiple languages and platforms.
 * [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
 * [Gradle](http://gradle.org/) - Another open source build automation system.
 
