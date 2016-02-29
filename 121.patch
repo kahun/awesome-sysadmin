@@ -1,0 +1,22 @@
+From 451b7c2e40480c1a57fc354671e7e91e5ccb53d1 Mon Sep 17 00:00:00 2001
+From: Dimitrios Stergiou <dstergiou@gmail.com>
+Date: Fri, 27 Jun 2014 14:17:32 +0200
+Subject: [PATCH] added TeemIP and phpIPAM in the IT Asset Management category
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 58fecf6..0ed060d 100644
+--- a/README.md
++++ b/README.md
+@@ -183,6 +183,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
+ * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
+ * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
+ * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
++* [TeemIP](http://www.teemip.com/) - IP and Network address management.
++* [phpIPAM](http://phpipam.net/) - IP and Network address management.
+ 
+ ## LDAP
+ *LDAP servers.*
