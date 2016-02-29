@@ -187,6 +187,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Configuration management tools.*
 
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
+* [Babushka](http://babushka.me/) - Lightweight configuration management tool.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
