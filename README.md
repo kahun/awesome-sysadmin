@@ -257,6 +257,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
+* [SkyDNS](https://github.com/skynetservices/skydns) - DNS server backed by etcd to allow fast changes. Great for service discovery.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
