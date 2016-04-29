@@ -297,6 +297,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+* [FreeIPA](http://www.freeipa.org) - Integrated security information management solution.
 
 *LDAP management*
 
