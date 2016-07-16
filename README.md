@@ -529,6 +529,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
+* [rkt](https://github.com/coreos/rkt) - App Container runtime for Linux.
+
 
 ## SSH
 
