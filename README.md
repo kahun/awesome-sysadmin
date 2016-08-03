@@ -589,7 +589,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Web-based project management and bug tracking systems.*
 
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
