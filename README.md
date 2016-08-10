@@ -642,6 +642,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Web servers.*
 
 * [Apache](http://httpd.apache.org/) - Most popular web server.
+* [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Fully Managed TLS.
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
 * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
