@@ -544,6 +544,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
 * [sshrc](https://github.com/Russell91/sshrc) - sources ~/.sshrc on your local computer after logging in remotely.
 * [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
+* [Teleport](http://gravitational.com/teleport/) - SSH for Clusters and teams.
 
 ## Statistics
 
