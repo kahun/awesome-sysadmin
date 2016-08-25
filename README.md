@@ -635,6 +635,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
+* [ZeroTier](https://github.com/zerotier/ZeroTierOne) - Multi-network, Hamachi-like, Layer 2/3 VPN solution.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## Web
