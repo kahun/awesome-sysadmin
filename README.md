@@ -98,12 +98,16 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Conversation-driven development & management.*
 
+* [CasinoBot](https://casinobot.codeplex.com/SourceControl/latest) - A C# based casino game IRC bot.
 * [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable, open-source Python IRC bot.
 * [Eggdrop](http://www.eggheads.org/) - The world's most popular Open Source IRC bot, designed for flexibility and ease of use.
 * [Err](http://errbot.net/) - A plugin based chatbot designed to be easily deployable, extensible and maintainable.
 * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
+* [IdleRPG](http://idlerpg.net/source.php) - An open source, perl based IRC RPG game.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+* [MadCow](https://github.com/cjones/madcow) - A python based IRC bot.
+* [PircBotX](https://github.com/TheLQ/pircbotx) - A Java framework for IRC bots.
 
 ## Cloning
 
