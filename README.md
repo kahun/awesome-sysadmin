@@ -538,6 +538,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
 * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
 * [DSH](http://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
+* [ironssh](https://ironcorelabs.com/products/ironsftp) - E2E encrypt files transferred using sftp/scp and share access with other users.
 * [Mosh](http://mosh.mit.edu/) - The mobile shell.
 * [parallel-ssh](http://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
 * [pdsh](https://code.google.com/p/pdsh/) - Pdsh is a high-performance, parallel remote shell utility.
