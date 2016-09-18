@@ -76,6 +76,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
+* [Shield](https://github.com/starkandwayne/shield) - A standalone system that can perform backup and restore functions for a wide variety of pluggable data systems
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
