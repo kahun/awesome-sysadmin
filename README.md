@@ -430,6 +430,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+* [TIPP](http://tipp.tobez.org/) - Web based IP address management tool.
 * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
 ## Newsletters
