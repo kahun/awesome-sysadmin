@@ -527,6 +527,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Bitnami](https://bitnami.com/) - Produces open source installers or software packages for web applications and development stacks as well as virtual appliances.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
+* [LXD](https://linuxcontainers.org/lxd/) - LXD is a container "hypervisor".
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
 
