@@ -219,7 +219,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [Webmin](http://www.webmin.com/) - Linux server control panel.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
-
+* [CentOS Web Panel](http://centos-webpanel.com/) -  Control Panel for Cent OS Systems
 ## Deployment Automation
 
 *Tools and scripts to support deployments to your servers.*
