@@ -646,6 +646,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
 * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
+* [CaddyServer](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS
+* [H2O Server](https://h2o.examp1e.net/) - the optimized HTTP/1.x, HTTP/2 server
 
 *Web Performance.*
 
