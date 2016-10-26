@@ -315,6 +315,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [Sumologic](https://www.sumologic.com/) - Cloud native log management and time series metrics.
 
 ## Mail Servers
 
