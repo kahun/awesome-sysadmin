@@ -130,7 +130,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Cloud Orchestration
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources
+* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
@@ -535,11 +535,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *SSH tools.*
 
-<<<<<<< HEAD
 * [Advanced SSH config](https://pypi.python.org/pypi/advanced-ssh-config/) - Enhances ssh_config file capabilities, completely transparent.
-=======
-* [Ansible](http://www.ansible.com) - A general purpose automation stack using SSH that can run ad-hoc actions as well
->>>>>>> Updates for Ansible references
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
 * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
 * [DSH](http://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
@@ -575,6 +571,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Simple support ticket system.
 * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+* [Redmine](http://www.redmine.org/) - Open source project management/ticketing web application written in Ruby.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
