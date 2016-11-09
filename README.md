@@ -130,6 +130,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Cloud Orchestration
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
+* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
@@ -186,7 +187,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Configuration management tools.*
 
-* [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
+* [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
@@ -534,7 +535,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *SSH tools.*
 
+<<<<<<< HEAD
 * [Advanced SSH config](https://pypi.python.org/pypi/advanced-ssh-config/) - Enhances ssh_config file capabilities, completely transparent.
+=======
+* [Ansible](http://www.ansible.com) - A general purpose automation stack using SSH that can run ad-hoc actions as well
+>>>>>>> Updates for Ansible references
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
 * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
 * [DSH](http://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
