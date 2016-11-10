@@ -129,6 +129,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 ## Cloud Orchestration
 
+* [Asgard](https://github.com/Netflix/asgard) - Netflix Asgard is a web interface for application deployments and cloud management in Amazon Web Services (AWS).
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
@@ -372,6 +373,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
+* [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [Exhibitor](https://github.com/Netflix/exhibitor) - Exhibitor is a supervisor system for ZooKeeper.
+* [Ice](https://github.com/Netflix/ice) - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -385,7 +389,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
+* [SimianArmy](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your AWS cloud operating in top form.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+* [Vector](https://github.com/Netflix/vector) - On-host performance monitoring framework which exposes hand picked high resolution system and application metrics.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
@@ -405,12 +412,14 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Metric gathering and display software.*
 
+* [Atlas](https://github.com/Netflix/atlas) - Backend for managing dimensional time series data.
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
 * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI.
+* [gcviz](https://github.com/Netflix/gcviz) - A a set of programs that help generate visualizations from Java's gc.log.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scalable graphing server.
@@ -420,6 +429,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
+* [Servo](https://github.com/Netflix/servo) - A simple interface for exposing and publishing application metrics in Java.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
 ## Network Configuration Management
@@ -517,6 +527,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
+* [Security Monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors policy changes and alerts on insecure configurations in an AWS account.
+* [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
 
 ## Service Discovery
 
