@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Awesome-sysadmin : A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Awesome-sysadmin</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/base64.js"></script>
+    <script src="javascripts/marked.js"></script>
+    <script type="text/javascript">
+        var githubApiUrl = 'https://api.github.com/repos/kahun/awesome-sysadmin/readme';
+        var contentContainerId = "#readmeContent";
+
+        $.ajax({
+          url: githubApiUrl,
+          dataType: 'jsonp',
+          success: function(response)
+          {
+            var encodedContent = response.data.content;
+            var markdownText = Base64.decode(encodedContent);
+            var renderedHtml = marked(markdownText);
+
+            $(contentContainerId).html(renderedHtml);
+          }
+        });
+    </script>
+
+    <!-- ANALYTICS  -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-8224475-6', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/kahun/awesome-sysadmin">View on GitHub</a>
+
+          <h1 id="project_title">Awesome-sysadmin</h1>
+          <h2 id="project_tagline">A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/kahun/awesome-sysadmin/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/kahun/awesome-sysadmin/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <div id="readmeContent"></div>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Awesome-sysadmin maintained by <a href="https://github.com/kahun">kahun</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+  </body>
+</html>

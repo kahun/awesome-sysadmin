@@ -693,6 +693,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 *Sysadmin related books.*
 
+* [OpenSSL Cookbook](https://www.feistyduck.com/books/openssl-cookbook/) - A free ebook about OpenSSL basics and how to create secure configurations by Ivan Ristić.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
