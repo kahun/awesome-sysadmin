@@ -641,6 +641,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [OpenConnect](http://www.infradead.org/openconnect/) - AnyConnect SSL [clients](http://www.infradead.org/openconnect/platforms.html) & [server](http://www.infradead.org/ocserv/platforms.html).
 
 ## Web
 
