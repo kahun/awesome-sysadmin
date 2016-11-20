@@ -205,7 +205,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
-
+* [CapsuleCD](https://github.com/AnalogJ/capsulecd) - Continuous Delivery script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc) 
 ## Control Panels
 
 *Web hosting and server control panels.*
