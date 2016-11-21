@@ -348,7 +348,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
 * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
-* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Fork of ejabberd.
 * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
 * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
@@ -594,7 +594,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Web-based project management and bug tracking systems.*
 
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
