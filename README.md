@@ -84,6 +84,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool
 
 ## Build Automation
 
