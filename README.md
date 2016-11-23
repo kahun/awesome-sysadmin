@@ -694,6 +694,7 @@ Various resources, such as books, websites and articles, for improving your skil
 *Sysadmin related books.*
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
+* [The Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29) - A novelized case study (and practical application) of Operations Management and Theory of Constraints. Pairs well with The Phoenix Project.
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
@@ -702,6 +703,8 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Devops Weekly](www.devopsweekly.com/) - A weekly slice of devops news.
+* [Cron.Weekly](https://www.cronweekly.com/) - A weekly newsletter with news & tools tailored to Linux sysadmins.
 
 ## Repositories
 
