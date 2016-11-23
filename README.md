@@ -702,6 +702,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Devops Weekly](http://www.devopsweekly.com/) - A weekly slice of devops news.
 
 ## Repositories
 
