@@ -287,6 +287,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
+* [TeemIP](http://www.teemip.com/) - IP and Network address management.
+* [phpIPAM](http://phpipam.net/) - IP and Network address management.
 
 ## LDAP
 
