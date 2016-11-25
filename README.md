@@ -416,6 +416,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scalable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+* [NetData](http://my-netdata.io) - Distributed real-time performance and health monitoring.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
