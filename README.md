@@ -63,11 +63,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
-* [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
+* [BorgBackup](https://borgbackup.readthedocs.io/) - Deduplicating backup program with compression and authenticated encryption.
 * [Brebis](http://brebisproject.org) - A fully automated backup checker.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
