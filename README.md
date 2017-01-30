@@ -130,6 +130,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Cloud Orchestration
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
+* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
@@ -186,7 +187,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Configuration management tools.*
 
-* [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
+* [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
@@ -459,7 +460,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
-* Key-Value
+
+*Key-Value.*
+
+  * [Couchbase](http://www.couchbase.com/) - In-memory, replicated, peristent key/value datastore.
   * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
@@ -570,6 +574,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Simple support ticket system.
 * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
+* [Redmine](http://www.redmine.org/) - Open source project management/ticketing web application written in Ruby.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
