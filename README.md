@@ -670,6 +670,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Wiki software.*
 
+* [BookStack](https://www.bookstackapp.com/) - A simple, user-friendly wiki built with PHP that uses MySQL for storage.
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
