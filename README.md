@@ -532,7 +532,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
-* [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
+* [Docker Compose](https://docs.docker.com/compose/) - Fast, isolated development environments using Docker.
 
 ## SSH
 
