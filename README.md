@@ -274,7 +274,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
-* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text.
+* [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
