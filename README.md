@@ -231,6 +231,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
 
+*Tools and scripts to support deployments to your endpoints.*
+
+* [WAPT](https://www.wapt.fr/) - Open source software deployment solution, apt-get for Windows
+
 ## Distributed Filesystems
 
 *Network distributed filesystems.*
