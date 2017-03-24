@@ -302,6 +302,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *LDAP management*
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+* [Univention Corporate Server](http://www.univention.com) - Univention Corporate Server (UCS): integrated OpenLDAP and Samba4 directory management
 
 ## Log Management
 
