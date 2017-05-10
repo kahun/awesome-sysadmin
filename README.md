@@ -20,6 +20,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Control Panels](#control-panels)
   * [Deployment Automation](#deployment-automation)
   * [Distributed Filesystems](#distributed-filesystems)
+  * [DHCP](#dhcp)
   * [DNS](#dns)
   * [Editors](#editors)
   * [IT Asset Management](#it-asset-management)
@@ -247,6 +248,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
+## DHCP
+*DHCP tools.*
+
+* [lsleases](https://github.com/j-keck/lsleases) - dhcp leases sniffer.
+    
 ## DNS
 
 *DNS servers.*
