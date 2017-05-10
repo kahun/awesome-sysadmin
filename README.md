@@ -534,6 +534,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Fig](http://orchardup.github.io/fig/) - Fast, isolated development environments using Docker.
 
+## Security
+*Security Tools.*
+
+* [fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+
 ## SSH
 
 *SSH tools.*
