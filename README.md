@@ -287,6 +287,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
+* [HDDModelDecoder](https://github.com/KOLANICH/HDDModelDecoder.py) - a python library to decode HDD model numbers into their specs and capabilities.
 
 ## LDAP
 
