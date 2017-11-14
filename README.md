@@ -641,6 +641,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. Linux only (2017); other clients in development.
 
 ## Web
 
