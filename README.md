@@ -657,6 +657,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
+* [Virtuozzo](https://www.openvz.org/Virtuozzo) - Virtualization solution combines hypervisor and OpenVZ containers.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
