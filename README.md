@@ -143,6 +143,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
 * [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
+* [OpenShift Origin](http://www.openshift.org/) - PaaS platform built on Docker and Kubernetes using a foundation of Atomic and Enterprise Linux.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
