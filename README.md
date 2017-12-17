@@ -271,9 +271,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
 * [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 * [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
+* [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) - A tool for securing communications between a client and a DNS resolver.
 * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
 * [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
+* [pdnsd](http://members.home.nl/p.a.rombouts/pdnsd/index.html) - DNS server designed for local caching of DNS information. "p" stands for persistent.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
