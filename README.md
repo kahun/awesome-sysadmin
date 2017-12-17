@@ -384,6 +384,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Webchats.*
 
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+* [Mattermost](https://github.com/mattermost/platform/) - Open source Slack-alternative in Golang and React.
+* [Rocket.Chat](https://rocket.chat/) - Have your own Slack like online chat, built with Meteor.
 
 ## Monitoring
 
