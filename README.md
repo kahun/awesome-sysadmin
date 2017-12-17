@@ -116,6 +116,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+* [iPXE](http://ipxe.org/) - iPXE is an open source boot firmware project as a livecd that can get obscure network devices to recognize and boot from remote PXE servers.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
 ## Cloud Computing
