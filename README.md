@@ -611,6 +611,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
+##Tools
+*MySQL tools*
+
+* [mydumper](https://launchpad.net/mydumper) - Multithreaded MySQL import/export tool replaces mysqldump.
+
 ## Troubleshooting
 
 *Troubleshooting tools.*
