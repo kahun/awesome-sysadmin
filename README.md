@@ -140,7 +140,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 * [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery.
-* [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -213,7 +213,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
-* [Spinnaker](http://www.spinnaker.io/) - Open source, multi-cloud continuous delivery platform for releasing software changes.
+* [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful Continuous Integration out of the box
 
 ## Control Panels
 
@@ -451,7 +451,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
 * [NOC Project](http://nocproject.org/) - Scalable, high-performance and open-source [OSS](http://en.wikipedia.org/wiki/Operations_support_system) system for ISP, service and content providers.
-* [Netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+* [Netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. 
 * [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
 * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
