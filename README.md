@@ -130,6 +130,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Tsuru](http://www.tsuru.io/) - Tsuru is an extensible and open source Platform as a Service software.
+* [Terraform](https://terraform.io) - Terraform allows you to practice infrastructure as code and is commonly used for AWS/GCE.
 
 ## Cloud Orchestration
 
