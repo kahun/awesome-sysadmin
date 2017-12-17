@@ -203,6 +203,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [(R)?ex](https://www.rexify.org/) - It's written in Perl and use plain Perl, over SSH without agent.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* [Sprinkle](https://github.com/sprinkle-tool/sprinkle) - Lightweight configuration management tool with Ruby as DSL.
 
 ## Continuous Integration & Continuous Deployment
 
