@@ -155,6 +155,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [nextCloud](https://nextcloud.com) - Provides access to your files via the web
 * [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
+* [NextCloud](https://nextcloud.com) - Provides universal access to your files via the web, your computer or your mobile devices, as well as CalDav, and plugins for other tasks. Forked from ownCloud. 
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
