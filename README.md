@@ -303,6 +303,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *IT Assets Management software.*
 
+* [FusionInventory](http://fusioninventory.org/) - Enables users to inventory their IT assets (Can be integrated with GLPI using a plugin).
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 * [Netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
@@ -337,6 +338,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Lnav](http://lnav.org/) - An advanced log file viewer for the small-scale. Watch and analyze your log files from a terminal. No server.  No setup.  Still featureful.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
