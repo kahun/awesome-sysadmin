@@ -284,6 +284,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
+* [IntellijIDEA](https://github.com/JetBrains/intellij-community) - Capable and ergonomic IDE, written in Java, It has a lot of plug-ins.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
