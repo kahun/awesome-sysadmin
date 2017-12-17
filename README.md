@@ -504,6 +504,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
+* [jdeb](https://github.com/tcurdt/jdeb) - Ant task and a Maven plugin to create Debian packages from Java builds
+* [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 
 ## Queuing
 
