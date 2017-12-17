@@ -549,6 +549,13 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 * [BounCA](https://bounca.org/) - BounCA is a personal SSL / Certificate Authority Key management tool. Create self-signed SSL certificates via your browser. ([Source Code](https://github.com/repleo/bounca)) `Apache` `Python`
 
+*Firewalls.*
+
+* [IPCop](http://www.ipcop.org/) - The IPCop Firewall is a Linux firewall distribution.
+* [iptables-boilerplate](https://github.com/bmaeser/iptables-boilerplate) - Rock solid default firewall-rules for webhosts.
+* [ufw](https://launchpad.net/ufw) - Ufw stands for Uncomplicated Firewall, and is program for managing a netfilter firewall.
+* [Shorewall](http://www.shorewall.net/) - Shorewall is a gateway/firewall configuration tool for GNU/Linux.
+
 ## Service Discovery
 
 * [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
