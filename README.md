@@ -395,6 +395,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
+* [conn-con](http://conn-check.org/) - Inter-service network connectivity testing/monitoring tool.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
