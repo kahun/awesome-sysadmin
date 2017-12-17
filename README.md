@@ -66,6 +66,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
+* [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Brebis](http://brebisproject.org) - A fully automated backup checker.
