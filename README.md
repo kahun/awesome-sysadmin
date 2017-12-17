@@ -280,7 +280,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Open source code editors.*
 
-* [Atom](https://atom.io/) - A hackable text editor from Github.
+* [Atom](https://atom.io/) - A hackable text editor from GitHub.
 * [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
@@ -295,6 +295,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 * [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
+* [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
 
 ## IT Asset Management
 
