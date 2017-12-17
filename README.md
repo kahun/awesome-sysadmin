@@ -214,6 +214,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
 * [Spinnaker](http://www.spinnaker.io/) - Open source, multi-cloud continuous delivery platform for releasing software changes.
+* [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful Continuous Integration out of the box
 
 ## Control Panels
 
