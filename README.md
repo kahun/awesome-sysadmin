@@ -231,7 +231,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [Webmin](http://www.webmin.com/) - Linux server control panel.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
-
+* [CentOS Web Panel](http://centos-webpanel.com/) -  Control Panel for Cent OS Systems
 ## Deployment Automation
 
 *Tools and scripts to support deployments to your servers.*
@@ -686,6 +686,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
 * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
+* [CaddyServer](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS
+* [H2O Server](https://h2o.examp1e.net/) - the optimized HTTP/1.x, HTTP/2 server
 
 *Web Performance.*
 
