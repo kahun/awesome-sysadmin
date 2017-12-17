@@ -414,6 +414,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+* [Smolder](http://sky-shiny.github.io/smolder/) - Rest endpoint monitoring: redirects, headers, ssl validation. 
 
 *Monitoring dashboards.*
 
