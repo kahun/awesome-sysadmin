@@ -500,6 +500,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 ## Packaging
 
+* [CMake](http://www.cmake.org/) - Cross-platform build and packaging software.
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
