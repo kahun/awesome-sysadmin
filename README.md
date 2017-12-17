@@ -501,6 +501,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Packaging
 
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
+* [fpm-cookery](https://github.com/bernd/fpm-cookery) - A tool for building software packages with fpm.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
