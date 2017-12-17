@@ -117,6 +117,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
+* [Unison](http://www.cis.upenn.edu/~bcpierce/unison/) - Synchronizes files between drives or machines. Bidirectional merging and conflict management.
 
 ## Cloud Computing
 
