@@ -407,8 +407,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
-* [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
-* [Serverstats](https://sourceforge.net/projects/serverstats.berlios/) - A simple tool for creating graphs using rrdtool. ([source on github](https://github.com/ddanier/serverstats))
+* [Sentry](https://sentry.io/) - Application monitoring, logging, error tracking, crash reporting and aggregation platform.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
