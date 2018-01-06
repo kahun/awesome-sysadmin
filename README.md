@@ -317,7 +317,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [389 Directory Server](http://port389.org) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
-* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
@@ -325,6 +324,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *LDAP management*
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
+* [phpLDAPAdmin](http://phpldapadmin.sourceforge.net) - Web-based LDAP browser to manage a LDAP server. 
 
 ## Log Management
 
