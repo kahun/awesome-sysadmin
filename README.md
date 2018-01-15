@@ -629,6 +629,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [Gitea](https://gitea.io/) - A community managed fork of Gogs, lightweight code hosting solution written in Go.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
 * [OpenProject](https://www.openproject.org) - Project collaboration with open source.
