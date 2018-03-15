@@ -693,6 +693,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Squid](http://www.squid-cache.org/) - Caching proxy for the web supporting HTTP, HTTPS, FTP, and more.
 * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
+* [Sōzu-proxy](https://github.com/sozu-proxy) - Open Source HTTP Reverse Proxy built in Rust for Immutable Infrastructures by Clev
+er Cloud
 
 ## Webmails
 
