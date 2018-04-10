@@ -223,6 +223,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
 * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
+* [CyberPanel](https://cyberpanel.net/) - Control Panel for Centos 7 with OpenLiteSpeed as webserver.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
