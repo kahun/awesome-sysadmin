@@ -589,8 +589,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Analog](http://www.web42.com/analog/) - Logfile Analyser.
 * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
+* [Matomo](https://matomo.org/) - Web analytics application.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
-* [Piwik](http://piwik.org/) - Web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
 ## Status Pages
