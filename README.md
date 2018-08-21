@@ -362,6 +362,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Complete solutions.*
 
+* [Mail Cow](https://mailcow.email/) - Docker based full-featured email solution based on Postfix and Dovecot. 
 * [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
 * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
 
