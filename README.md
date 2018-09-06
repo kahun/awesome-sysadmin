@@ -216,6 +216,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
 * [Spinnaker](http://www.spinnaker.io/) - Open source, multi-cloud continuous delivery platform for releasing software changes.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful Continuous Integration out of the box
+* [CircleCI](https://circleci.com/) - A robust and flexible Continuous Integration tool
 
 ## Control Panels
 
