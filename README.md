@@ -390,6 +390,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Monitoring software.*
 
 * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
+* [Arborist](https://arbori.st/) - Arborist is a monitoring toolkit for observing and reporting on a tree of network devices. 
 * [Canopsis](http://www.canopsis.org) - Opensource Hypervision and Data Aggregation Software
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
