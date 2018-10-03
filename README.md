@@ -284,19 +284,20 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Atom](https://atom.io/) - A hackable text editor from GitHub.
 * [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
-* [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
-* [Geany](http://www.geany.org/) - GTK2 text editor.
-* [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
+* [Eclipse](https://eclipse.org/) - IDE written in Java with an extensible plug-in system.
+* [Geany](https://www.geany.org/) - GTK2 text editor.
+* [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
-* [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
+* [ICEcoder](https://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [IntellijIDEA](https://github.com/JetBrains/intellij-community) - Capable and ergonomic IDE, written in Java, It has a lot of plug-ins.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
-* [SciTE](http://www.scintilla.org/SciTE.html) - A SCIntilla based Text Editor.
+* [Netbeans](https://netbeans.org/) - A powerful multi-platform, multi-language open source IDE.
+* [SciTE](https://www.scintilla.org/SciTE.html) - A SCIntilla based Text Editor.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
-* [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-* [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
+* [Vim](https://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+* [Nano](https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
 
 ## IT Asset Management
