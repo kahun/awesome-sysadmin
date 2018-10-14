@@ -38,6 +38,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [RDBMS](#rdbms)
   * [Security](#security)
   * [Service Discovery](#service-discovery)
+  * [Service Mesh](#service-mesh)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
   * [Statistics](#statistics)
@@ -51,7 +52,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Web](#web)
   * [Webmails](#webmails)
   * [Wikis](#wikis)
-* [Resources](#resources)
+  * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
   * [Newsletters](#newsletters)
@@ -554,6 +555,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+
+## Service Mesh
+
+* [Istio](https://istio.io/) - Istio is used to describe the network of microservices to make an easier communication of then.
 
 ## Software Containers
 
