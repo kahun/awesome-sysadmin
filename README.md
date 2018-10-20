@@ -421,6 +421,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
+* [ELK Stack](https://www.elastic.co/elk-stack) - Log Monitoring Dashboards with intergrations to multiple applications and UDP/TCP transfers.
 
 *Monitoring distributions.*
 
@@ -546,6 +547,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
+* [Suricata](https://suricata-ids.org/) - An open source network intrusion detection system (NIDS).
+* [BRO](https://www.bro.org/) - Bro is a powerful network analysis framework.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 * [BounCA](https://bounca.org/) - BounCA is a personal SSL / Certificate Authority Key management tool. Create self-signed SSL certificates via your browser. ([Source Code](https://github.com/repleo/bounca)) `Apache` `Python`
 
