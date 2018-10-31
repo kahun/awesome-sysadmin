@@ -334,6 +334,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
+* [Frontail](https://github.com/mthenw/frontail) - Node.js Application that is streaming your logs into your browser, like ```tail -F``` with a UI
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
