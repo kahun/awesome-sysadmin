@@ -317,6 +317,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [389 Directory Server](http://port389.org) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+* [FreeIPA](https://www.freeipa.org/page/Main_Page) - LDAP with OTP. Includes DNS, NTP, Kerberos, CA, AD integration, Web UI and more!
 * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
