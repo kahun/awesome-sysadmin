@@ -201,6 +201,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [(R)?ex](https://www.rexify.org/) - It's written in Perl and use plain Perl, over SSH without agent.
+* [Rudder](https://www.rudder-project.org/) - Audit and configure your IT from a Web UI, apply with an agent and get reporting.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
