@@ -617,6 +617,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [tcpdump](https://www.tcpdump.org/) - The classic command-line packet analyzer.
 * [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 *Troubleshooting distributions.*
