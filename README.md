@@ -596,6 +596,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
+* [Staytus](http://staytus.co/) - An open source solution for publishing the status of your services.
+* [LambStatus](https://lambstatus.github.io/) - Build and maintain your status page with minimum effort and cost.
 
 ## Ticketing systems
 
