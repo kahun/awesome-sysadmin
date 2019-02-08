@@ -439,6 +439,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+* [Metrictank](https://github.com/grafana/metrictank) - A multi-tenant timeseries engine for Graphite. It provides long term storage, high availability, efficient storage, retrieval and processing for large scale environments.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scalable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
