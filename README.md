@@ -565,7 +565,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [LXD](https://linuxcontainers.org/lxd/) - LXD is a container "hypervisor".
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Docker Compose](https://docs.docker.com/compose/) - Fast, isolated development environments using Docker.
-* [Singularity](http://singularity.lbl.gov/) - Flexible containers without root.
+* [Singularity](https://sylabs.io/docs/) - Flexible containers without root.
 
 ## SSH
 
