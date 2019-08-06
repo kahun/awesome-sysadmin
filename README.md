@@ -653,7 +653,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Virtualization software.*
 
 * [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
-* [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
+* [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
