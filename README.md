@@ -701,6 +701,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+* [Rainloop](https://www.rainloop.net/) - Fast and simple web-mail client.  No DB required.
 
 ## Wikis
 
