@@ -298,6 +298,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 * [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
+* [VSCodium](https://vscodium.com/) - Fork of Microsofts Visual Studio Code with Telemetry disabled.
 
 ## IT Asset Management
 
@@ -325,6 +326,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *LDAP management*
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+* [LDAP Admin](http://www.ldapadmin.org/) - A Windows GUI for LDAP administration.
 
 ## Log Management
 
