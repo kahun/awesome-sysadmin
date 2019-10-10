@@ -325,6 +325,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *LDAP management*
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - The Eclipse-based LDAP browser and directory client
+* [LDAP Admin](http://www.ldapadmin.org/) - A Windows GUI for LDAP administration.
 
 ## Log Management
 
