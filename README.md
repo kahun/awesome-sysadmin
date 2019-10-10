@@ -81,6 +81,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
+* [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Filebased syncronisation tool with cross-platform emphasis.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
