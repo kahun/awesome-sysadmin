@@ -661,6 +661,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
+* [Virt-Manager](https://virt-manager.org/) - Virtual Machine Manager a FOSS from Red Hat.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
