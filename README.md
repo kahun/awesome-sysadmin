@@ -105,6 +105,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable, open-source Python IRC bot.
 * [Eggdrop](http://www.eggheads.org/) - The world's most popular Open Source IRC bot, designed for flexibility and ease of use.
 * [Err](http://errbot.net/) - A plugin based chatbot designed to be easily deployable, extensible and maintainable.
+* [Hedwig](https://github.com/hedwig-im/hedwig) - An Adapter-based Bot Framework for Elixir Applications.
 * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
