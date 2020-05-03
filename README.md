@@ -566,6 +566,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Docker Compose](https://docs.docker.com/compose/) - Fast, isolated development environments using Docker.
 * [Singularity](http://singularity.lbl.gov/) - Flexible containers without root.
+* [podman](https://github.com/containers/libpod) -  Simply put: `alias docker=podman`
 
 ## SSH
 
