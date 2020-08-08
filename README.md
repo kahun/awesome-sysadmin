@@ -77,7 +77,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
-* [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program 
+* [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
@@ -116,6 +116,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+* [Ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory
 * [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
 ## Cloud Computing
