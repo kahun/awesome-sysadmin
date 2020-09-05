@@ -730,7 +730,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 *Sysadmin related books.*
 
-* [Learn Cisco Network Administration in a Month of Lunches] (https://www.manning.com/books/learn-cisco-network-administration-in-a-month-of-lunches) - A tutorial designed for sysadmins who need to learn how to administer Cisco switches and routers.
+* [Learn Cisco Network Administration in a Month of Lunches](https://www.manning.com/books/learn-cisco-network-administration-in-a-month-of-lunches) - A tutorial designed for sysadmins who need to learn how to administer Cisco switches and routers.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
