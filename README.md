@@ -742,6 +742,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
 * [DevOpsLinks](http://devopslinks.com) - A community of DevOps, SysAdmin & Developers with a weekly newsletter and a team chat.
+* [cron.weekly](https://ma.ttias.be/cronweekly/) - A weekly newsletter about Linux, open source & web development.
 
 ## Repositories
 
