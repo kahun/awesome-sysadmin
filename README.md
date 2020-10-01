@@ -762,6 +762,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
+* [Graphical GIT Tutorial](https://learngitbranching.js.org/) - a interactive and graphical GIT Tutorial explaing the basics of GIT and Branching.
 
 ## License
 
