@@ -238,6 +238,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Capistrano](http://www.capistranorb.com) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
+* [Meli](https://github.com/getmeli/meli) - Platform to deploy static sites and frontend applications easily. Built on top of Caddy server.
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
