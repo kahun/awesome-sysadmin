@@ -296,7 +296,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SciTE](http://www.scintilla.org/SciTE.html) - A SCIntilla based Text Editor.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-* [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
+* [Nano](https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
 
 ## IT Asset Management
