@@ -610,6 +610,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Redmine](http://www.redmine.org/) - Open source project management/ticketing web application written in Ruby.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+* [Bugasura](https://bugasura.io) - Web-based bug tracking system that is focussed on closing the issues.
 
 ## Troubleshooting
 
