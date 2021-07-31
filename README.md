@@ -210,7 +210,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
-* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
+* [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD using GitLab Runner, which is written in Go. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
