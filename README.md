@@ -83,6 +83,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+* [Proxmox Backup Server](https://proxmox.com/en/proxmox-backup-server/features) enterprise-class, client-server backup software
 
 *Backup libraries.*
 
