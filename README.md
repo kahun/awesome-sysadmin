@@ -252,6 +252,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *Network distributed filesystems.*
 
+* [BeeGFS](https://www.beegfs.io/c/) -Parallel file system designed for performance
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
 * [DRBD](http://www.drbd.org/) - Distributed Replicated Block Device.
 * [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
