@@ -675,6 +675,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 * [wireguard](https://www.wireguard.com/) - New minimal VPN Solution that is very fast.
+* [VPN Setup Guide](https://github.com/git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean) - Setup OpenVPN and Ipsec Server on Digital Ocean.
 
 ## Web
 
