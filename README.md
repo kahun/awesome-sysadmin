@@ -202,7 +202,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [(R)?ex](https://www.rexify.org/) - It's written in Perl and use plain Perl, over SSH without agent.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
-* [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* ~~[Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.~~ This project is now dead
 
 ## Continuous Integration & Continuous Deployment
 
@@ -240,7 +240,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
+* [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 ## Diagramming
 
