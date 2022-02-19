@@ -339,6 +339,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [OpenSearch](https://opensearch.org/) - OpenSearch is a community-driven, open source search and analytics suite.
 
 ## Mail Servers
 
