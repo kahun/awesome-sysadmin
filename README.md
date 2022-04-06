@@ -111,6 +111,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
+* [Slack](https://code.google.com/archive/p/slack/) - It's written in Perl, but scripts can be any langauge. A self proclaimed glorified Rsync wrapper.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
 ## Continuous Integration & Continuous Deployment
