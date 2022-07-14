@@ -65,6 +65,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
+* [backy](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
