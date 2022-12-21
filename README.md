@@ -545,6 +545,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OSSEC](http://ossec.net) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
 * [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
+* [OPNSense](https://opnsense.org/) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 * [BounCA](https://bounca.org/) - BounCA is a personal SSL / Certificate Authority Key management tool. Create self-signed SSL certificates via your browser. ([Source Code](https://github.com/repleo/bounca)) `Apache` `Python`
