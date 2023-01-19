@@ -159,6 +159,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 * [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distribution of data.
+* [Dragonfly](https://d7y.io/) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 
 ## Code Review
 
