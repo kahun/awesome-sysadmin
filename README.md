@@ -212,6 +212,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
+* [Jaypore CI](https://www.jayporeci.in) - A simple, very flexible, powerful tool for automation. Configured in Python and offline first.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
 * [Spinnaker](http://www.spinnaker.io/) - Open source, multi-cloud continuous delivery platform for releasing software changes.
