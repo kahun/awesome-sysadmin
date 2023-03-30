@@ -261,7 +261,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
 * [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
 * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
-* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
+* [TahoeLAFS](https://tahoe-lafs.org//tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 ## DNS
@@ -609,6 +609,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
 * [Redmine](http://www.redmine.org/) - Open source project management/ticketing web application written in Ruby.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+* [Roundup Issue Tracker](https://www.roundup-tracker.org/) - Track issues your way using web/html, REST, email, cli. Customize supplied templates your way.
 * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## Troubleshooting
