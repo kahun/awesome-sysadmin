@@ -237,6 +237,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Tools and scripts to support deployments to your servers.*
 
 * [Capistrano](http://www.capistranorb.com) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
+* [Cloud 66](https://www.cloud66.com/) - Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff”.
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
