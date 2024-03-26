@@ -715,7 +715,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
 * [Ōlelo Wiki](https://github.com/minad/olelo) - A a wiki that stores pages in a Git repository.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
-
+* [Wiki.js](https://js.wiki) - Simple Markdown, WYSIWYGH and more ways to create Wiki, written in NodeJS.  
 # Resources
 
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
