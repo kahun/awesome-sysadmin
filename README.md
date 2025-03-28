@@ -359,6 +359,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+* [telegram-owl](https://github.com/beeyev/telegram-owl) - CLI tool to send Telegram messages and files from scripts, cron jobs, or CI/CD pipelines.
 
 *Complete solutions.*
 
