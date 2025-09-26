@@ -737,6 +737,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
+* [Fundamentals of DevOps and Software Delivery: A Hands-On Guide to Deploying and Managing Software in Production ](https://www.fundamentals-of-devops.com/) - Learn how to run production systems through dozens of step-by-step examples, starting with the basics—an app running on a single server—and working your way up to microservices in a Kubernetes cluster with a service mesh, automated deployment pipeline, end-to-end encryption, and more.
 
 ## Newsletters
 
