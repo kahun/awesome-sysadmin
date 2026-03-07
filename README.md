@@ -83,6 +83,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+- [Linux Server Backup Solutions 2026](https://www.linuxteck.com/linux-server-backup-solutions-2026/) — A complete production guide covering rsync, BorgBackup, Restic, Duplicity, Bacula and Amanda.
+- [Best Linux Monitoring Tools](https://www.linuxteck.com/best-linux-monitoring-tools/) — Top monitoring tools for Linux servers including Prometheus, Grafana, Zabbix and Nagios.
+- [Linux Server Hardening Checklist](https://www.linuxteck.com/linux-server-hardening-checklist/) — A production-ready checklist to secure and harden Linux servers.
 
 *Backup libraries.*
 
