@@ -596,6 +596,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
+* [Nezha](https://github.com/nezhahq/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool.
 
 ## Ticketing systems
 
