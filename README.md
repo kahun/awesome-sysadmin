@@ -179,6 +179,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
+- [ReleaseRun](https://releaserun.com) — release monitoring and dependency health for sysadmins — tracks EOL dates for Node.js, Python, Ruby, PostgreSQL, Linux distros, and 13+ other technologies
 ## Configuration Management Database
 
 *Configuration management database (CMDB) software.*
