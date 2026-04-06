@@ -1,6 +1,7 @@
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for system administration automation, infrastructure monitoring, and security orchestration. MIT licensed.
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
