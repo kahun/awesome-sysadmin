@@ -426,6 +426,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=kahun_awesome-sysadmin) - Free social feed for GitHub. Follow developers, discover trending repos, see what your stack is building.
 ## Metric & Metric Collection
 
 *Metric gathering and display software.*
