@@ -419,6 +419,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Adagios](http://adagios.org/) - Web based Nagios configuration interface.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [KubeStellar Console](https://console.kubestellar.io) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF project integrations, and supply chain security. ([Source Code](https://github.com/kubestellar/console))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 
