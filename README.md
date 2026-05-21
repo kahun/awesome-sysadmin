@@ -339,6 +339,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [Middleware](https://middleware.io/) - Unified log monitoring - Make troubleshooting faster with AI-driven insight and total data control at a 90% savings.
 
 ## Mail Servers
 
