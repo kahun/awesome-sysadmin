@@ -581,6 +581,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
 * [sshrc](https://github.com/Russell91/sshrc) - sources ~/.sshrc on your local computer after logging in remotely.
 * [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
+* [tsm](https://github.com/ahmedsaid47/tsm) - SSH-first tmux session manager and dashboard.
 
 ## Statistics
 
