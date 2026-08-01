@@ -56,6 +56,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Books](#books)
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source GPL-3.0 self-hosted autonomous AI penetration testing platform; docker-compose deploy, runs fully local, Privacy Gateway keeps sensitive data on-prem. Web, API, AD and Kubernetes.
   * [Websites](#websites)
 
 
