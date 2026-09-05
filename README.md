@@ -317,6 +317,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [389 Directory Server](http://port389.org) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+* [Casdoor](https://github.com/casdoor/casdoor) - Identity/SSO platform with a built-in LDAP server, OAuth, OIDC and SAML.
 * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
