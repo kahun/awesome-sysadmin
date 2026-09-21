@@ -277,6 +277,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+* [GateDNS](https://gatedns.app) - Encrypted DNS filtering platform with a recursive Unbound backend, supporting DoH/DoT and router-level DDNS binding.
 
 ## Editors
 
