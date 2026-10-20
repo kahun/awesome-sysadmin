@@ -413,6 +413,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
+* [WatchCron](https://watchcron.com) - Cron job monitoring service. Alerts when scheduled tasks fail, run late, or stop running.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 *Monitoring dashboards.*
