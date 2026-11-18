@@ -19,6 +19,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Control Panels](#control-panels)
   * [Deployment Automation](#deployment-automation)
+  * [DHCP](#dhcp)
   * [Diagramming](#diagramming)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
@@ -241,6 +242,15 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
+
+## DHCP
+
+*DHCP Servers.*
+
+* [CoreDHCP](https://github.com/coredhcp/coredhcp) - Fast, multi-threaded, modular dual-stack DHCPv4/v6 server written in Go.
+* [dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) - Lightweight service providing DNS, DHCP, and TFTP services to small-scale networks.
+* [ISC Kea](https://www.isc.org/kea/) - Modern, extensible open-source DHCPv4 & DHCPv6 server with REST APIs and SQL backends.
+* [Jagornet DHCP](https://github.com/jagornet/dhcp) - High-performance, single-process DHCPv4/v6 server built on Java 21 and Netty with gRPC High Availability, Dynamic DNS, and OpenAPI REST.
 
 ## Diagramming
 
